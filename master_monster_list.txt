@@ -1,0 +1,5123 @@
+{
+    " Storm Giant Quintessent": {
+        "AC": 12,
+        "Book": "VGM 151",
+        "HP": 230,
+        "Located": "Mountain, Arctic, Underwater, Desert, Coast",
+        "Speed": "50 Ft, Fly 50 Ft, Swim 50 Ft",
+        "Type": "Giant",
+        "XP": 15000
+    },
+    "Abjurer": {
+        "AC": 12,
+        "Book": "VGM 209",
+        "HP": 84,
+        "Located": "Urban",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 5000
+    },
+    "Aboleth": {
+        "AC": 17,
+        "Book": "MM 13",
+        "HP": 135,
+        "Located": "Underwater",
+        "Speed": "10 Ft, Swim 40 Ft",
+        "Type": "Aberration",
+        "XP": 5900
+    },
+    "Abominable Yeti": {
+        "AC": 15,
+        "Book": "MM 306",
+        "HP": 137,
+        "Located": "Mountain, Arctic",
+        "Speed": "40 Ft, Climb 40 Ft",
+        "Type": "Monstrosity",
+        "XP": 5000
+    },
+    "Adult Black Dragon": {
+        "AC": 19,
+        "Book": "MM 88",
+        "HP": 195,
+        "Located": "Swamp, Mountain",
+        "Speed": "40 Ft, Fly 80 Ft, Swim 40 Ft",
+        "Type": "Dragon",
+        "XP": 11500
+    },
+    "Adult Blue Dragon": {
+        "AC": 19,
+        "Book": "MM 91",
+        "HP": 225,
+        "Located": "Desert, Coast",
+        "Speed": "40 Ft, Burrow 30 Ft, Fly 80 Ft",
+        "Type": "Dragon",
+        "XP": 15000
+    },
+    "Adult Green Dragon": {
+        "AC": 19,
+        "Book": "MM 94",
+        "HP": 207,
+        "Located": "Forest, Swamp",
+        "Speed": "40 Ft, Fly 80 Ft, Swim 40 Ft",
+        "Type": "Dragon",
+        "XP": 13000
+    },
+    "Adult Kuthrik": {
+        "AC": 18,
+        "Book": "MTF 212",
+        "HP": 39,
+        "Located": "Underdark, Mountain, Hill",
+        "Speed": "40 Ft, Burrow 20 Ft, Climb 40 Ft",
+        "Type": "Monstrosity",
+        "XP": 450
+    },
+    "Adult Oblex": {
+        "AC": 14,
+        "Book": "MTF 218",
+        "HP": 75,
+        "Located": "Urban, Underdark",
+        "Speed": "20 Ft",
+        "Type": "Ooze",
+        "XP": 1800
+    },
+    "Adult Red Dragon": {
+        "AC": 19,
+        "Book": "MM 98",
+        "HP": 256,
+        "Located": "Mountain, Desert",
+        "Speed": "40 Ft, Climb 40 Ft, Fly 80 Ft",
+        "Type": "Dragon",
+        "XP": 18000
+    },
+    "Adult White Dragon": {
+        "AC": 18,
+        "Book": "MM 101",
+        "HP": 200,
+        "Located": "Arctic",
+        "Speed": "40 Ft, Burrow 30 Ft, Fly 80 Ft, Swim 40 Ft",
+        "Type": "Dragon",
+        "XP": 10000
+    },
+    "Air Elemental": {
+        "AC": 15,
+        "Book": "MM 124",
+        "HP": 90,
+        "Located": "Planar",
+        "Speed": "Fly 90 Ft",
+        "Type": "Elemental",
+        "XP": 1800
+    },
+    "Air Elemental Myrmidon": {
+        "AC": 18,
+        "Book": "MTF 202",
+        "HP": 117,
+        "Located": "Planar",
+        "Speed": "30 Ft, Fly 30 Ft",
+        "Type": "Elemental",
+        "XP": 2900
+    },
+    "Alhoon": {
+        "AC": 15,
+        "Book": "VGM 172",
+        "HP": 120,
+        "Located": "Underdark, Planar",
+        "Speed": "30 Ft",
+        "Type": "Aberration, Mindflayer, Undead",
+        "XP": 5900
+    },
+    "Alkilith": {
+        "AC": 17,
+        "Book": "MTF 130",
+        "HP": 157,
+        "Located": "Urban, Mountain, Planar, Underdark",
+        "Speed": "40 Ft",
+        "Type": "Demon, Fiend",
+        "XP": 7200
+    },
+    "Allip": {
+        "AC": 13,
+        "Book": "MTF 116",
+        "HP": 40,
+        "Located": "Urban, Underdark, Cemetery",
+        "Speed": "Fly 40 Ft",
+        "Type": "Undead",
+        "XP": 1800
+    },
+    "Amnizu": {
+        "AC": 21,
+        "Book": "MTF 164",
+        "HP": 202,
+        "Located": "Planar",
+        "Speed": "30 Ft, Fly 40 Ft",
+        "Type": "Devil, Fiend",
+        "XP": 20000
+    },
+    "Ancient Black Dragon": {
+        "AC": 22,
+        "Book": "MM 87",
+        "HP": 367,
+        "Located": "Swamp, Mountain",
+        "Speed": "40 Ft, Fly 80 Ft, Swim 40 Ft",
+        "Type": "Dragon",
+        "XP": 27500
+    },
+    "Ancient Blue Dragon": {
+        "AC": 22,
+        "Book": "MM 90",
+        "HP": 481,
+        "Located": "Desert, Coast",
+        "Speed": "40 Ft, Burrow 40 Ft, Fly 80 Ft",
+        "Type": "Dragon",
+        "XP": 32500
+    },
+    "Ancient Green Dragon": {
+        "AC": 21,
+        "Book": "MM 93",
+        "HP": 385,
+        "Located": "Forest, Swamp",
+        "Speed": "40 Ft, Fly 80 Ft, Swim 40 Ft",
+        "Type": "Dragon",
+        "XP": 30000
+    },
+    "Ancient Red Dragon": {
+        "AC": 22,
+        "Book": "MM 97",
+        "HP": 546,
+        "Located": "Mountain, Desert",
+        "Speed": "40 Ft, Climb 40 Ft, Fly 80 Ft",
+        "Type": "Dragon",
+        "XP": 36500
+    },
+    "Ancient White Dragon": {
+        "AC": 20,
+        "Book": "MM 100",
+        "HP": 333,
+        "Located": "Mountain, Arctic",
+        "Speed": "40 Ft, Burrow 40 Ft, Fly 80 Ft, Swim 40 Ft",
+        "Type": "Dragon",
+        "XP": 24500
+    },
+    "Animated Armor": {
+        "AC": 18,
+        "Book": "MM 19",
+        "HP": 33,
+        "Located": "Urban",
+        "Speed": "25 Ft",
+        "Type": "Construct",
+        "XP": 200
+    },
+    "Ankheg": {
+        "AC": 14,
+        "Book": "MM 21",
+        "HP": 39,
+        "Located": "Grassland, Hill, Desert",
+        "Speed": "30 Ft, Burrow 10 Ft",
+        "Type": "Monstrosity",
+        "XP": 450
+    },
+    "Annis Hag": {
+        "AC": 17,
+        "Book": "VGM 159",
+        "HP": 75,
+        "Located": "Mountain, Hill",
+        "Speed": "40 Ft",
+        "Type": "Fey",
+        "XP": 2300
+    },
+    "Ape": {
+        "AC": 12,
+        "Book": "MM 317",
+        "HP": 19,
+        "Located": "Forest",
+        "Speed": "30 Ft, Climb 30 Ft",
+        "Type": "Beast",
+        "XP": 100
+    },
+    "Apprentice Wizard": {
+        "AC": 10,
+        "Book": "VGM 209",
+        "HP": 9,
+        "Located": "Urban",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 50
+    },
+    "Arcanaloth": {
+        "AC": 17,
+        "Book": "MM 313",
+        "HP": 104,
+        "Located": "Planar",
+        "Speed": "30 Ft, Fly 30 Ft",
+        "Type": "Fiend, Yugoloth",
+        "XP": 8400
+    },
+    "Archdruid": {
+        "AC": 16,
+        "Book": "VGM 210",
+        "HP": 132,
+        "Located": "Forest, Swamp, Coast, Mountain, Hill, Grassland, Desert, Arctic, Jungle",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 8400
+    },
+    "Archer": {
+        "AC": 16,
+        "Book": "VGM 210",
+        "HP": 75,
+        "Located": "Urban, Grassland, Forest, Swamp, Coast, Hill, Mountain, Jungle",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 700
+    },
+    "Archfey Warlock": {
+        "AC": 11,
+        "Book": "VGM 219",
+        "HP": 49,
+        "Located": "Urban, Forest, Swamp, Grassland",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 1100
+    },
+    "Archmage": {
+        "AC": 12,
+        "Book": "MM 342",
+        "HP": 99,
+        "Located": "Urban, Underdark, Planar",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 8400
+    },
+    "Armanite": {
+        "AC": 16,
+        "Book": "MTF 131",
+        "HP": 84,
+        "Located": "Planar",
+        "Speed": "60 Ft",
+        "Type": "Demon, Fiend",
+        "XP": 2900
+    },
+    "Assassin": {
+        "AC": 15,
+        "Book": "MM 343",
+        "HP": 78,
+        "Located": "Urban",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 3900
+    },
+    "Astral Dreadnought": {
+        "AC": 20,
+        "Book": "MTF 117",
+        "HP": 297,
+        "Located": "Planar",
+        "Speed": "15 Ft, Fly 80 Ft",
+        "Type": "Monstrosity",
+        "XP": 33000
+    },
+    "Autumn Eladrin": {
+        "AC": 19,
+        "Book": "MTF 195",
+        "HP": 127,
+        "Located": "Planar, Forest",
+        "Speed": "30 Ft",
+        "Type": "Fey",
+        "XP": 5900
+    },
+    "Awakened Tree": {
+        "AC": 13,
+        "Book": "MM 317",
+        "HP": 59,
+        "Located": "Forest, Swamp",
+        "Speed": "20 Ft",
+        "Type": "Plant",
+        "XP": 450
+    },
+    "Axe Beak": {
+        "AC": 11,
+        "Book": "MM 317",
+        "HP": 19,
+        "Located": "Hills",
+        "Speed": "50 Ft",
+        "Type": "Beast",
+        "XP": 50
+    },
+    "Azer": {
+        "AC": 17,
+        "Book": "MM 22",
+        "HP": 39,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Elemental",
+        "XP": 450
+    },
+    "Babau": {
+        "AC": 16,
+        "Book": "VGM 136",
+        "HP": 82,
+        "Located": "Planar",
+        "Speed": "40 Ft",
+        "Type": "Demon, Fiend",
+        "XP": 1100
+    },
+    "Bael": {
+        "AC": 18,
+        "Book": "MTF 170",
+        "HP": 189,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Devil, Fiend",
+        "XP": 22000
+    },
+    "Balhannoth": {
+        "AC": 17,
+        "Book": "MTF 119",
+        "HP": 114,
+        "Located": "Planar, Underdark",
+        "Speed": "25 Ft, Climb 25 Ft",
+        "Type": "Aberration",
+        "XP": 7200
+    },
+    "Balor": {
+        "AC": 19,
+        "Book": "MM 55",
+        "HP": 262,
+        "Located": "Planar",
+        "Speed": "40 Ft, Fly 80 Ft",
+        "Type": "Demon, Fiend",
+        "XP": 22000
+    },
+    "Banderhobb": {
+        "AC": 15,
+        "Book": "VGM 122",
+        "HP": 84,
+        "Located": "Swamp, Forest, Coast, Underdark",
+        "Speed": "30 Ft",
+        "Type": "Monstrosity",
+        "XP": 1800
+    },
+    "Bandit": {
+        "AC": 12,
+        "Book": "MM 343",
+        "HP": 11,
+        "Located": "Urban, Grassland, Hill, Mountain",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 25
+    },
+    "Bandit Captain": {
+        "AC": 15,
+        "Book": "MM 344",
+        "HP": 65,
+        "Located": "Urban, Grassland, Hill, Mountain, Coast",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 450
+    },
+    "Banshee": {
+        "AC": 12,
+        "Book": "MM 23",
+        "HP": 58,
+        "Located": "Cemetery, Underdark, Coast",
+        "Speed": "Fly 40 Ft",
+        "Type": "Undead",
+        "XP": 1100
+    },
+    "Baphomet": {
+        "AC": 22,
+        "Book": "MTF 143",
+        "HP": 275,
+        "Located": "Planar",
+        "Speed": "40 Ft",
+        "Type": "Demon, Fiend, Lord",
+        "XP": 50000
+    },
+    "Barbed Devil": {
+        "AC": 15,
+        "Book": "MM 70",
+        "HP": 110,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Devil, Fiend",
+        "XP": 1800
+    },
+    "Bard": {
+        "AC": 15,
+        "Book": "VGM 211",
+        "HP": 44,
+        "Located": "Urban",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 450
+    },
+    "Barghest": {
+        "AC": 17,
+        "Book": "VGM 123",
+        "HP": 90,
+        "Located": "Grassland, Hill, Mountain",
+        "Speed": "60 Ft, 30 Ft Goblin Form",
+        "Type": "Fiend, Shapechanger",
+        "XP": 1100
+    },
+    "Barlgura": {
+        "AC": 15,
+        "Book": "MM 56",
+        "HP": 68,
+        "Located": "Planar",
+        "Speed": "30 Ft, Climb 30 Ft",
+        "Type": "Demon, Fiend",
+        "XP": 1800
+    },
+    "Basilisk": {
+        "AC": 15,
+        "Book": "MM 24",
+        "HP": 52,
+        "Located": "Mountain, Underdark, Hill",
+        "Speed": "20 Ft",
+        "Type": "Monstrosity",
+        "XP": 700
+    },
+    "Bearded Devil": {
+        "AC": 13,
+        "Book": "MM 70",
+        "HP": 52,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Devil, Fiend",
+        "XP": 700
+    },
+    "Behir": {
+        "AC": 17,
+        "Book": "MM 25",
+        "HP": 168,
+        "Located": "Mountain",
+        "Speed": "50 Ft, Climb 40 Ft",
+        "Type": "Monstrosity",
+        "XP": 7200
+    },
+    "Beholder": {
+        "AC": 18,
+        "Book": "MM 28",
+        "HP": 180,
+        "Located": "Underdark, Planar",
+        "Speed": "Fly 20 Ft",
+        "Type": "Aberration",
+        "XP": 10000
+    },
+    "Berbalang": {
+        "AC": 14,
+        "Book": "MTF 120",
+        "HP": 38,
+        "Located": "Planar, Underdark",
+        "Speed": "30 Ft, Fly 40 Ft",
+        "Type": "Aberration",
+        "XP": 450
+    },
+    "Berserker": {
+        "AC": 13,
+        "Book": "MM 344",
+        "HP": 67,
+        "Located": "Grassland, Hill, Mountain, Arctic, Desert",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 450
+    },
+    "Bheur Hag": {
+        "AC": 17,
+        "Book": "VGM 160",
+        "HP": 91,
+        "Located": "Arctic, Mountain",
+        "Speed": "30 Ft",
+        "Type": "Fey",
+        "XP": 2900
+    },
+    "Black Abishai": {
+        "AC": 15,
+        "Book": "MTF 160",
+        "HP": 58,
+        "Located": "Planar",
+        "Speed": "30 Ft, Fly 40 Ft",
+        "Type": "Devil, Fiend, Dragon",
+        "XP": 2900
+    },
+    "Black Bear": {
+        "AC": 11,
+        "Book": "MM 318",
+        "HP": 19,
+        "Located": "Forest",
+        "Speed": "40 Ft, Climb 30 Ft",
+        "Type": "Beast",
+        "XP": 100
+    },
+    "Black Dragon Wyrmling": {
+        "AC": 17,
+        "Book": "MM 88",
+        "HP": 33,
+        "Located": "Swamp",
+        "Speed": "30 Ft, Fly 60 Ft, Swim 30 Ft",
+        "Type": "Dragon",
+        "XP": 450
+    },
+    "Black Pudding": {
+        "AC": 7,
+        "Book": "MM 241",
+        "HP": 85,
+        "Located": "Underdark, Urban",
+        "Speed": "20 Ft, Climb 20 Ft",
+        "Type": "Ooze",
+        "XP": 1100
+    },
+    "Blackguard": {
+        "AC": 18,
+        "Book": "VGM 211",
+        "HP": 153,
+        "Located": "Urban, Underdark, Planar",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 3900
+    },
+    "Blue Abishai": {
+        "AC": 19,
+        "Book": "MTF 161",
+        "HP": 195,
+        "Located": "Planar",
+        "Speed": "30 Ft, Fly 50 Ft",
+        "Type": "Devil, Fiend, Dragon",
+        "XP": 18000
+    },
+    "Blue Dragon Wyrmling": {
+        "AC": 17,
+        "Book": "MM 91",
+        "HP": 52,
+        "Located": "Desert",
+        "Speed": "30 Ft, Burrow 15 Ft, Fly 60 Ft",
+        "Type": "Dragon",
+        "XP": 700
+    },
+    "Blue Slaad": {
+        "AC": 15,
+        "Book": "MM 276",
+        "HP": 123,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Aberration",
+        "XP": 2900
+    },
+    "Boar": {
+        "AC": 11,
+        "Book": "MM 319",
+        "HP": 11,
+        "Located": "Grassland",
+        "Speed": "40 Ft",
+        "Type": "Beast",
+        "XP": 50
+    },
+    "Bodak": {
+        "AC": 15,
+        "Book": "VGM 127",
+        "HP": 58,
+        "Located": "Swamp, Cemetery, Underdark",
+        "Speed": "30 Ft",
+        "Type": "Undead",
+        "XP": 2300
+    },
+    "Boggle": {
+        "AC": 14,
+        "Book": "VGM 128",
+        "HP": 18,
+        "Located": "Swamp, Forest, Grassland, Urban",
+        "Speed": "30 Ft, Climb 30 Ft",
+        "Type": "Fey",
+        "XP": 25
+    },
+    "Bone Devil": {
+        "AC": 19,
+        "Book": "MM 71",
+        "HP": 142,
+        "Located": "Planar",
+        "Speed": "40 Ft, Fly 40 Ft",
+        "Type": "Devil, Fiend",
+        "XP": 5000
+    },
+    "Bone Naga": {
+        "AC": 15,
+        "Book": "MM 233",
+        "HP": 58,
+        "Located": "Underdark, Swamp, Cemetery",
+        "Speed": "30 Ft",
+        "Type": "Undead",
+        "XP": 1100
+    },
+    "Boneclaw": {
+        "AC": 16,
+        "Book": "MTF 121",
+        "HP": 127,
+        "Located": "Urban, Grassland, Hill, Mountain, Underdark",
+        "Speed": "40 Ft",
+        "Type": "Undead",
+        "XP": 8400
+    },
+    "Brass Dragon Wyrmling": {
+        "AC": 16,
+        "Book": "MM 106",
+        "HP": 16,
+        "Located": "Desert",
+        "Speed": "30 Ft, Burrow 15 Ft, Fly 60 Ft",
+        "Type": "Dragon",
+        "XP": 200
+    },
+    "Bronze Dragon Wyrmling": {
+        "AC": 17,
+        "Book": "MM 109",
+        "HP": 32,
+        "Located": "Coast",
+        "Speed": "30 Ft, Fly 60 Ft, Swim 30 Ft",
+        "Type": "Dragon",
+        "XP": 450
+    },
+    "Bronze Scout": {
+        "AC": 13,
+        "Book": "MTF 125",
+        "HP": 18,
+        "Located": "Urban, Underdark",
+        "Speed": "30 Ft, Burrow 30 Ft",
+        "Type": "Construct",
+        "XP": 200
+    },
+    "Brown Bear": {
+        "AC": 11,
+        "Book": "MM 319",
+        "HP": 34,
+        "Located": "Mountain",
+        "Speed": "40 Ft, Climb 30 Ft",
+        "Type": "Beast",
+        "XP": 200
+    },
+    "Bugbear": {
+        "AC": 16,
+        "Book": "MM 33",
+        "HP": 27,
+        "Located": "Grassland, Hill, Mountain",
+        "Speed": "30 Ft",
+        "Type": "Humanoid (Goblinoid)",
+        "XP": 200
+    },
+    "Bugbear Chief": {
+        "AC": 17,
+        "Book": "MM 33",
+        "HP": 65,
+        "Located": "Grassland, Hill, Mountain",
+        "Speed": "30 Ft",
+        "Type": "Humanoid (Goblinoid)",
+        "XP": 700
+    },
+    "Bulette": {
+        "AC": 17,
+        "Book": "MM 34",
+        "HP": 94,
+        "Located": "Grassland, Hill, Desert",
+        "Speed": "40 Ft, Burrow 40 Ft",
+        "Type": "Monstrosity",
+        "XP": 1800
+    },
+    "Bulezau": {
+        "AC": 14,
+        "Book": "MTF 131",
+        "HP": 52,
+        "Located": "Planar",
+        "Speed": "40 Ft",
+        "Type": "Demon, Fiend",
+        "XP": 700
+    },
+    "Bullywug": {
+        "AC": 15,
+        "Book": "MM 35",
+        "HP": 11,
+        "Located": "Swamp, Coast",
+        "Speed": "20 Ft, Swim 40 Ft",
+        "Type": "Humanoid, Bullywug",
+        "XP": 50
+    },
+    "Cadaver Collector": {
+        "AC": 17,
+        "Book": "MTF 122",
+        "HP": 189,
+        "Located": "Cemetery, Underdark, Desert",
+        "Speed": "30 Ft",
+        "Type": "Construct",
+        "XP": 11500
+    },
+    "Cambion": {
+        "AC": 19,
+        "Book": "MM 36",
+        "HP": 82,
+        "Located": "Planar, Urban",
+        "Speed": "30 Ft, Fly 60 Ft",
+        "Type": "Fiend",
+        "XP": 1800
+    },
+    "Canoloth": {
+        "AC": 16,
+        "Book": "MTF 247",
+        "HP": 120,
+        "Located": "Planar",
+        "Speed": "50 Ft",
+        "Type": "Fiend, Yugoloth",
+        "XP": 3900
+    },
+    "Carrion Crawler": {
+        "AC": 13,
+        "Book": "MM 37",
+        "HP": 51,
+        "Located": "Cemetery, Underdark",
+        "Speed": "30 Ft, Climb 30 Ft",
+        "Type": "Monstrosity",
+        "XP": 450
+    },
+    "Catoblepas": {
+        "AC": 14,
+        "Book": "VGM 129",
+        "HP": 84,
+        "Located": "Swamp",
+        "Speed": "30 Ft",
+        "Type": "Monstrosity",
+        "XP": 1800
+    },
+    "Cave Fisher": {
+        "AC": 16,
+        "Book": "VGM 130",
+        "HP": 58,
+        "Located": "Underdark, Mountain",
+        "Speed": "20 Ft, Climb 20 Ft",
+        "Type": "Monstrosity",
+        "XP": 700
+    },
+    "Chain Devil": {
+        "AC": 16,
+        "Book": "MM 72",
+        "HP": 85,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Devil, Fiend",
+        "XP": 3900
+    },
+    "Champion": {
+        "AC": 18,
+        "Book": "VGM 212",
+        "HP": 143,
+        "Located": "Urban",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 5000
+    },
+    "Chasme": {
+        "AC": 15,
+        "Book": "MM 57",
+        "HP": 84,
+        "Located": "Planar",
+        "Speed": "20 Ft, Fly 60 Ft",
+        "Type": "Demon, Fiend",
+        "XP": 2300
+    },
+    "Chimera": {
+        "AC": 14,
+        "Book": "MM 39",
+        "HP": 114,
+        "Located": "Mountain, Grassland, Desert, Hill, Coast",
+        "Speed": "30 Ft, Fly 60 Ft",
+        "Type": "Monstrosity",
+        "XP": 2300
+    },
+    "Chitine": {
+        "AC": 14,
+        "Book": "VGM 131",
+        "HP": 18,
+        "Located": "Swamp, Forest, Underdark",
+        "Speed": "30 Ft, Climb 30 Ft",
+        "Type": "Monstrosity",
+        "XP": 100
+    },
+    "Choker": {
+        "AC": 16,
+        "Book": "MTF 123",
+        "HP": 13,
+        "Located": "Underdark",
+        "Speed": "30 Ft",
+        "Type": "Aberration",
+        "XP": 100
+    },
+    "Choldrith": {
+        "AC": 15,
+        "Book": "VGM 132",
+        "HP": 66,
+        "Located": "Swamp, Forest, Underdark",
+        "Speed": "30 Ft, Climb 30 Ft",
+        "Type": "Monstrosity",
+        "XP": 700
+    },
+    "Chuul": {
+        "AC": 16,
+        "Book": "MM 40",
+        "HP": 93,
+        "Located": "Underwater",
+        "Speed": "30 Ft, Swim 30 Ft",
+        "Type": "Aberration",
+        "XP": 1100
+    },
+    "Clay Golem": {
+        "AC": 14,
+        "Book": "MM 168",
+        "HP": 133,
+        "Located": "Forest",
+        "Speed": "20 Ft",
+        "Type": "Construct",
+        "XP": 5000
+    },
+    "Cloaker": {
+        "AC": 14,
+        "Book": "MM 41",
+        "HP": 78,
+        "Located": "Underdark",
+        "Speed": "10 Ft, Fly 40 Ft",
+        "Type": "Aberration",
+        "XP": 3900
+    },
+    "Cloud Giant": {
+        "AC": 14,
+        "Book": "MM 154",
+        "HP": 200,
+        "Located": "Mountain",
+        "Speed": "40 Ft",
+        "Type": "Giant",
+        "XP": 5000
+    },
+    "Cloud Giant Smiling One": {
+        "AC": 15,
+        "Book": "VGM 146",
+        "HP": 262,
+        "Located": "Mountain",
+        "Speed": "40 Ft",
+        "Type": "Giant",
+        "XP": 7200
+    },
+    "Cockatrice": {
+        "AC": 11,
+        "Book": "MM 42",
+        "HP": 27,
+        "Located": "Grassland, Hill, Desert",
+        "Speed": "20 Ft, Fly 40 Ft",
+        "Type": "Monstrosity",
+        "XP": 100
+    },
+    "Conjurer": {
+        "AC": 12,
+        "Book": "VGM 212",
+        "HP": 40,
+        "Located": "Urban",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 2300
+    },
+    "Constrictor Snake": {
+        "AC": 12,
+        "Book": "MM 320",
+        "HP": 13,
+        "Located": "Forest",
+        "Speed": "30 Ft, Swim 30 Ft",
+        "Type": "Beast",
+        "XP": 50
+    },
+    "Copper Dragon Wyrmling": {
+        "AC": 16,
+        "Book": "MM 112",
+        "HP": 22,
+        "Located": "Mountain",
+        "Speed": "30 Ft, Climb 30 Ft, Fly 60 Ft",
+        "Type": "Dragon",
+        "XP": 200
+    },
+    "Corpse Flower": {
+        "AC": 12,
+        "Book": "MTF 127",
+        "HP": 127,
+        "Located": "Cemetery, Underdark, Swamp",
+        "Speed": "20 Ft, Climb 20 Ft",
+        "Type": "Plant",
+        "XP": 3900
+    },
+    "Couatl": {
+        "AC": 19,
+        "Book": "MM 43",
+        "HP": 97,
+        "Located": "Grassland",
+        "Speed": "30 Ft, Fly 90 Ft",
+        "Type": "Celestial",
+        "XP": 1100
+    },
+    "Crocodile": {
+        "AC": 12,
+        "Book": "MM 320",
+        "HP": 19,
+        "Located": "Swamp",
+        "Speed": "20 Ft, Swim 30 Ft",
+        "Type": "Beast",
+        "XP": 100
+    },
+    "Cult Fanatic": {
+        "AC": 13,
+        "Book": "MM 345",
+        "HP": 33,
+        "Located": "Urban, Mountain, Underdark",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 450
+    },
+    "Cyclops": {
+        "AC": 14,
+        "Book": "MM 45",
+        "HP": 138,
+        "Located": "Grassland, Hill, Mountain, Coast",
+        "Speed": "30 Ft",
+        "Type": "Giant",
+        "XP": 2300
+    },
+    "Dao": {
+        "AC": 18,
+        "Book": "MM 143",
+        "HP": 187,
+        "Located": "Planar, Mountain, Underdark",
+        "Speed": "30 Ft, Burrow 30 Ft, Fly 30 Ft",
+        "Type": "Elemental",
+        "XP": 7200
+    },
+    "Darkling": {
+        "AC": 14,
+        "Book": "VGM 134",
+        "HP": 13,
+        "Located": "Underdark, Swamp, Forest, Cemetery",
+        "Speed": "30 Ft",
+        "Type": "Fey",
+        "XP": 100
+    },
+    "Darkling Elder": {
+        "AC": 15,
+        "Book": "VGM 134",
+        "HP": 27,
+        "Located": "Underdark, Swamp, Forest, Cemetery",
+        "Speed": "30 Ft",
+        "Type": "Fey",
+        "XP": 450
+    },
+    "Darkmantle": {
+        "AC": 11,
+        "Book": "MM 46",
+        "HP": 22,
+        "Located": "Underdark",
+        "Speed": "10 Ft, Fly 30 Ft",
+        "Type": "Monstrosity",
+        "XP": 100
+    },
+    "Death Dog": {
+        "AC": 12,
+        "Book": "MM 321",
+        "HP": 39,
+        "Located": "Grassland, Hill, Mountain",
+        "Speed": "40 Ft",
+        "Type": "Monstrosity",
+        "XP": 200
+    },
+    "Death Kiss": {
+        "AC": 16,
+        "Book": "VGM 124",
+        "HP": 161,
+        "Located": "Underdark, Planar",
+        "Speed": "Fly 30 Ft",
+        "Type": "Aberration",
+        "XP": 5900
+    },
+    "Death Knight": {
+        "AC": 20,
+        "Book": "MM 47",
+        "HP": 180,
+        "Located": "Urban, Underdark, Planar",
+        "Speed": "30 Ft",
+        "Type": "Undead",
+        "XP": 18000
+    },
+    "Death Slaad": {
+        "AC": 18,
+        "Book": "MM 278",
+        "HP": 170,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Aberration",
+        "XP": 5900
+    },
+    "Death Tyrant": {
+        "AC": 19,
+        "Book": "MM 29",
+        "HP": 187,
+        "Located": "Underdark, Planar",
+        "Speed": "Fly 20 Ft",
+        "Type": "Undead",
+        "XP": 11500
+    },
+    "Deathlock": {
+        "AC": 12,
+        "Book": "MTF 128",
+        "HP": 36,
+        "Located": "Underdark, Planar, Cemetery, Swamp, Forest, Urban",
+        "Speed": "30 Ft",
+        "Type": "Undead",
+        "XP": 1100
+    },
+    "Deathlock Mastermind": {
+        "AC": 13,
+        "Book": "MTF 129",
+        "HP": 110,
+        "Located": "Underdark, Planar, Cemetery, Swamp, Forest, Urban, Coast",
+        "Speed": "30 Ft",
+        "Type": "Undead",
+        "XP": 3900
+    },
+    "Deathlock Wight": {
+        "AC": 12,
+        "Book": "MTF 129",
+        "HP": 37,
+        "Located": "Underdark, Planar, Cemetery, Swamp, Forest, Urban, Coast",
+        "Speed": "30 Ft",
+        "Type": "Undead",
+        "XP": 700
+    },
+    "Deep Scion": {
+        "AC": 11,
+        "Book": "VGM 135",
+        "HP": 67,
+        "Located": "Underwater, Coast",
+        "Speed": "30 Ft, 20 Ft And Swim 40 Ft Hybrid Form",
+        "Type": "Humanoid, Shapechanger",
+        "XP": 700
+    },
+    "Demilich": {
+        "AC": 20,
+        "Book": "MM 48",
+        "HP": 80,
+        "Located": "Underdark, Cemetery, Urban",
+        "Speed": "Fly 30 Ft",
+        "Type": "Undead",
+        "XP": 20000
+    },
+    "Demogorgon": {
+        "AC": 22,
+        "Book": "MTF 144",
+        "HP": 406,
+        "Located": "Planar",
+        "Speed": "50 Ft, Swim 50 Ft",
+        "Type": "Demon Lord, Fiend",
+        "XP": 90000
+    },
+    "Derro": {
+        "AC": 13,
+        "Book": "MTF 158",
+        "HP": 13,
+        "Located": "Underdark",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Derro",
+        "XP": 50
+    },
+    "Derro Savant": {
+        "AC": 13,
+        "Book": "MTF 159",
+        "HP": 36,
+        "Located": "Underdark",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Derro",
+        "XP": 700
+    },
+    "Deva": {
+        "AC": 17,
+        "Book": "MM 16",
+        "HP": 136,
+        "Located": "Planar",
+        "Speed": "30 Ft, Fly 90 Ft",
+        "Type": "Celestial",
+        "XP": 5900
+    },
+    "Devourer": {
+        "AC": 16,
+        "Book": "VGM 138",
+        "HP": 178,
+        "Located": "Planar, Cemetery, Underdark",
+        "Speed": "30 Ft",
+        "Type": "Fiend",
+        "XP": 10000
+    },
+    "Dhergoloth": {
+        "AC": 15,
+        "Book": "MTF 248",
+        "HP": 119,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Fiend, Yugoloth",
+        "XP": 2900
+    },
+    "Dire Troll": {
+        "AC": 15,
+        "Book": "MTF 243",
+        "HP": 172,
+        "Located": "Swamp, Forest, Arctic, Mountain, Grassland, Hill, Underdark",
+        "Speed": "40 Ft",
+        "Type": "Giant",
+        "XP": 10000
+    },
+    "Dire Wolf": {
+        "AC": 14,
+        "Book": "MM 321",
+        "HP": 37,
+        "Located": "Grassland",
+        "Speed": "50 Ft",
+        "Type": "Beast",
+        "XP": 200
+    },
+    "Displacer Beast": {
+        "AC": 13,
+        "Book": "MM 81",
+        "HP": 85,
+        "Located": "Forest, Swamp, Grassland, Planar",
+        "Speed": "40 Ft",
+        "Type": "Monstrosity",
+        "XP": 700
+    },
+    "Doppelganger": {
+        "AC": 14,
+        "Book": "MM 82",
+        "HP": 52,
+        "Located": "Urban",
+        "Speed": "30 Ft",
+        "Type": "Monstrosity",
+        "XP": 700
+    },
+    "Draegloth": {
+        "AC": 15,
+        "Book": "VGM 141",
+        "HP": 123,
+        "Located": "Underdark",
+        "Speed": "30 Ft",
+        "Type": "Demon, Fiend, Drow",
+        "XP": 2900
+    },
+    "Dragon Turtle": {
+        "AC": 20,
+        "Book": "MM 119",
+        "HP": 341,
+        "Located": "Coast",
+        "Speed": "20 Ft, Swim 40 Ft",
+        "Type": "Dragon",
+        "XP": 18000
+    },
+    "Dretch": {
+        "AC": 11,
+        "Book": "MM 57",
+        "HP": 18,
+        "Located": "Planar",
+        "Speed": "20 Ft",
+        "Type": "Demon, Fiend",
+        "XP": 50
+    },
+    "Drider": {
+        "AC": 19,
+        "Book": "MM 120",
+        "HP": 123,
+        "Located": "Underdark, Forest",
+        "Speed": "30 Ft, Climb 30 Ft",
+        "Type": "Monstrosity",
+        "XP": 2300
+    },
+    "Drow": {
+        "AC": 15,
+        "Book": "MM 128",
+        "HP": 13,
+        "Located": "Underdark",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Drow",
+        "XP": 50
+    },
+    "Drow Arachnomancer": {
+        "AC": 15,
+        "Book": "MTF 182",
+        "HP": 162,
+        "Located": "Underdark",
+        "Speed": "30 Ft, Climb 30 Ft",
+        "Type": "Humanoid, Drow",
+        "XP": 10000
+    },
+    "Drow Elite Warrior": {
+        "AC": 18,
+        "Book": "MM 128",
+        "HP": 71,
+        "Located": "Underdark",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Drow",
+        "XP": 1800
+    },
+    "Drow Favored Consort": {
+        "AC": 15,
+        "Book": "MTF 183",
+        "HP": 225,
+        "Located": "Underdark",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Drow",
+        "XP": 20000
+    },
+    "Drow House Captain": {
+        "AC": 16,
+        "Book": "MTF 184",
+        "HP": 162,
+        "Located": "Underdark",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Drow",
+        "XP": 5000
+    },
+    "Drow Inquisitor": {
+        "AC": 16,
+        "Book": "MTF 184",
+        "HP": 143,
+        "Located": "Underdark",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Drow",
+        "XP": 11500
+    },
+    "Drow Mage": {
+        "AC": 12,
+        "Book": "MM 129",
+        "HP": 45,
+        "Located": "Underdark",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Drow",
+        "XP": 2900
+    },
+    "Drow Matron Mother": {
+        "AC": 17,
+        "Book": "MTF 186",
+        "HP": 262,
+        "Located": "Underdark",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Drow",
+        "XP": 25000
+    },
+    "Drow Priestess Of Lolth": {
+        "AC": 16,
+        "Book": "MM 129",
+        "HP": 71,
+        "Located": "Underdark",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Drow",
+        "XP": 3900
+    },
+    "Drow Shadowblade": {
+        "AC": 17,
+        "Book": "MTF 187",
+        "HP": 150,
+        "Located": "Underdark",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Drow",
+        "XP": 7200
+    },
+    "Druid": {
+        "AC": 11,
+        "Book": "MM 346",
+        "HP": 27,
+        "Located": "Forest, Swamp, Arctic, Hill, Grassland, Desert, Coast",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 450
+    },
+    "Dryad": {
+        "AC": 11,
+        "Book": "MM 121",
+        "HP": 22,
+        "Located": "Forest",
+        "Speed": "30 Ft",
+        "Type": "Fey",
+        "XP": 200
+    },
+    "Duergar": {
+        "AC": 16,
+        "Book": "MM 122",
+        "HP": 28,
+        "Located": "Underdark, Mountain",
+        "Speed": "25 Ft",
+        "Type": "Humanoid (Duergar)",
+        "XP": 200
+    },
+    "Duergar Despot": {
+        "AC": 21,
+        "Book": "MTF 188",
+        "HP": 119,
+        "Located": "Underdark",
+        "Speed": "25 Ft",
+        "Type": "Humanoid, Duergar",
+        "XP": 8400
+    },
+    "Duergar Hammerer": {
+        "AC": 17,
+        "Book": "MTF 188",
+        "HP": 33,
+        "Located": "Underdark",
+        "Speed": "20 Ft",
+        "Type": "Humanoid, Duergar",
+        "XP": 450
+    },
+    "Duergar Kavalrachni": {
+        "AC": 16,
+        "Book": "MTF 189",
+        "HP": 26,
+        "Located": "Underdark",
+        "Speed": "25 Ft",
+        "Type": "Humanoid, Duergar",
+        "XP": 450
+    },
+    "Duergar Mind Master": {
+        "AC": 14,
+        "Book": "MTF 189",
+        "HP": 39,
+        "Located": "Underdark",
+        "Speed": "25 Ft",
+        "Type": "Humanoid, Duergar",
+        "XP": 450
+    },
+    "Duergar Screamer": {
+        "AC": 15,
+        "Book": "MTF 190",
+        "HP": 38,
+        "Located": "Underdark",
+        "Speed": "20 Ft",
+        "Type": "Humanoid, Duergar",
+        "XP": 700
+    },
+    "Duergar Soulblade": {
+        "AC": 14,
+        "Book": "MTF 190",
+        "HP": 18,
+        "Located": "Underdark",
+        "Speed": "25 Ft",
+        "Type": "Humanoid, Duergar",
+        "XP": 200
+    },
+    "Duergar Stone Guard": {
+        "AC": 18,
+        "Book": "MTF 191",
+        "HP": 39,
+        "Located": "Underdark",
+        "Speed": "25 Ft",
+        "Type": "Humanoid, Duergar",
+        "XP": 450
+    },
+    "Duergar Warlord": {
+        "AC": 20,
+        "Book": "MTF 192",
+        "HP": 75,
+        "Located": "Underdark",
+        "Speed": "25 Ft",
+        "Type": "Humanoid, Duergar",
+        "XP": 2300
+    },
+    "Duergar Xarrorn": {
+        "AC": 18,
+        "Book": "MTF 193",
+        "HP": 26,
+        "Located": "Underdark",
+        "Speed": "25 Ft",
+        "Type": "Humanoid, Duergar",
+        "XP": 450
+    },
+    "Dust Mephit": {
+        "AC": 12,
+        "Book": "MM 215",
+        "HP": 17,
+        "Located": "Desert",
+        "Speed": "30 Ft, Fly 30 Ft",
+        "Type": "Elemental",
+        "XP": 100
+    },
+    "Dybbuk": {
+        "AC": 14,
+        "Book": "MTF 132",
+        "HP": 37,
+        "Located": "Planar, Urban",
+        "Speed": "Fly 40 Ft",
+        "Type": "Demon, Fiend",
+        "XP": 1100
+    },
+    "Earth Elemental": {
+        "AC": 17,
+        "Book": "MM 124",
+        "HP": 126,
+        "Located": "Planar",
+        "Speed": "30 Ft, Burrow 30 Ft",
+        "Type": "Elemental",
+        "XP": 1800
+    },
+    "Earth Elemental Myrmidon": {
+        "AC": 18,
+        "Book": "MTF 202",
+        "HP": 127,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Elemental",
+        "XP": 2900
+    },
+    "Efreeti": {
+        "AC": 17,
+        "Book": "MM 145",
+        "HP": 200,
+        "Located": "Planar",
+        "Speed": "40 Ft, Fly 60 Ft",
+        "Type": "Elemental",
+        "XP": 7200
+    },
+    "Eidolon": {
+        "AC": 9,
+        "Book": "MTF 194",
+        "HP": 63,
+        "Located": "Underdark, Cemetery",
+        "Speed": "Fly 40 Ft",
+        "Type": "Undead",
+        "XP": 8400
+    },
+    "Elder Brain": {
+        "AC": 10,
+        "Book": "VGM 174",
+        "HP": 210,
+        "Located": "Underdark, Planar",
+        "Speed": "5 Ft, Swim 10 Ft",
+        "Type": "Aberration, Mindflayer",
+        "XP": 11500
+    },
+    "Elder Oblex": {
+        "AC": 16,
+        "Book": "MTF 219",
+        "HP": 115,
+        "Located": "Urban, Underdark",
+        "Speed": "20 Ft",
+        "Type": "Ooze",
+        "XP": 5900
+    },
+    "Elder Tempest": {
+        "AC": 19,
+        "Book": "MTF 200",
+        "HP": 264,
+        "Located": "Mountain, Grassland, Coast",
+        "Speed": "Fly 120 Ft",
+        "Type": "Elemental",
+        "XP": 50000
+    },
+    "Elephant": {
+        "AC": 12,
+        "Book": "MM 322",
+        "HP": 76,
+        "Located": "Grassland",
+        "Speed": "40 Ft",
+        "Type": "Beast",
+        "XP": 1100
+    },
+    "Empyrean": {
+        "AC": 22,
+        "Book": "MM 130",
+        "HP": 313,
+        "Located": "Planar",
+        "Speed": "50 Ft, Fly 50 Ft, Swim 50 Ft",
+        "Type": "Celestial",
+        "XP": 32500
+    },
+    "Enchanter": {
+        "AC": 12,
+        "Book": "VGM 213",
+        "HP": 40,
+        "Located": "Urban",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 1800
+    },
+    "Erinyes": {
+        "AC": 18,
+        "Book": "MM 73",
+        "HP": 153,
+        "Located": "Planar",
+        "Speed": "30 Ft, Fly 60 Ft",
+        "Type": "Devil, Fiend",
+        "XP": 8400
+    },
+    "Ettercap": {
+        "AC": 13,
+        "Book": "MM 131",
+        "HP": 44,
+        "Located": "Forest, Swamp",
+        "Speed": "30 Ft, Climb 30 Ft",
+        "Type": "Monstrosity",
+        "XP": 450
+    },
+    "Ettin": {
+        "AC": 12,
+        "Book": "MM 132",
+        "HP": 85,
+        "Located": "Hill, Mountain",
+        "Speed": "40 Ft",
+        "Type": "Giant",
+        "XP": 1100
+    },
+    "Evoker": {
+        "AC": 12,
+        "Book": "VGM 214",
+        "HP": 66,
+        "Located": "Urban",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 5000
+    },
+    "Faerie Dragon": {
+        "AC": 15,
+        "Book": "MM 133",
+        "HP": 14,
+        "Located": "Forest, Swamp, Planar",
+        "Speed": "10 Ft, Fly 60 Ft",
+        "Type": "Dragon",
+        "XP": 450
+    },
+    "Female Steeder": {
+        "AC": 14,
+        "Book": "MTF 238",
+        "HP": 30,
+        "Located": "Underdark",
+        "Speed": "30 Ft, Climb 30 Ft",
+        "Type": "Monstrosity, Duergar",
+        "XP": 200
+    },
+    "Fiend Warlock": {
+        "AC": 12,
+        "Book": "VGM 219",
+        "HP": 78,
+        "Located": "Urban, Underdark, Arctic, Planar",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 2900
+    },
+    "Fire Elemental": {
+        "AC": 13,
+        "Book": "MM 125",
+        "HP": 102,
+        "Located": "Planar",
+        "Speed": "50 Ft",
+        "Type": "Elemental",
+        "XP": 1800
+    },
+    "Fire Elemental Myrmidon": {
+        "AC": 18,
+        "Book": "MTF 203",
+        "HP": 123,
+        "Located": "Planar",
+        "Speed": "40 Ft",
+        "Type": "Elemental",
+        "XP": 2900
+    },
+    "Fire Giant": {
+        "AC": 18,
+        "Book": "MM 154",
+        "HP": 162,
+        "Located": "Mountain, Underdark",
+        "Speed": "30 Ft",
+        "Type": "Giant",
+        "XP": 5000
+    },
+    "Fire Giant Dreadnought": {
+        "AC": 21,
+        "Book": "VGM 147",
+        "HP": 187,
+        "Located": "Mountain, Underdark",
+        "Speed": "30 Ft",
+        "Type": "Giant",
+        "XP": 11500
+    },
+    "Fire Snake": {
+        "AC": 14,
+        "Book": "MM 265",
+        "HP": 22,
+        "Located": "Mountain, Desert, Planar",
+        "Speed": "30 Ft",
+        "Type": "Elemental",
+        "XP": 200
+    },
+    "Firenewt Warlock Of Imix": {
+        "AC": 10,
+        "Book": "VGM 143",
+        "HP": 33,
+        "Located": "Mountain",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Firenewt",
+        "XP": 200
+    },
+    "Firenewt Warrior": {
+        "AC": 16,
+        "Book": "VGM 142",
+        "HP": 22,
+        "Located": "Mountain",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Firenewt",
+        "XP": 100
+    },
+    "Flail Snail": {
+        "AC": 16,
+        "Book": "VGM 144",
+        "HP": 52,
+        "Located": "Underdark, Mountain",
+        "Speed": "10 Ft",
+        "Type": "Elemental",
+        "XP": 700
+    },
+    "Flameskull": {
+        "AC": 13,
+        "Book": "MM 134",
+        "HP": 40,
+        "Located": "Underdark, Cemetery, Urban",
+        "Speed": "Fly 40 Ft",
+        "Type": "Undead",
+        "XP": 1100
+    },
+    "Flesh Golem": {
+        "AC": 9,
+        "Book": "MM 169",
+        "HP": 93,
+        "Located": "Urban",
+        "Speed": "30 Ft",
+        "Type": "Construct",
+        "XP": 1800
+    },
+    "Flind": {
+        "AC": 16,
+        "Book": "VGM 153",
+        "HP": 127,
+        "Located": "Grassland, Hill",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Gnoll",
+        "XP": 5000
+    },
+    "Flying Sword": {
+        "AC": 17,
+        "Book": "MM 20",
+        "HP": 17,
+        "Located": "Urban",
+        "Speed": "Fly 50 Ft",
+        "Type": "Construct",
+        "XP": 50
+    },
+    "Fomorian": {
+        "AC": 14,
+        "Book": "MM 136",
+        "HP": 149,
+        "Located": "Underdark, Mountain",
+        "Speed": "30 Ft",
+        "Type": "Giant",
+        "XP": 3900
+    },
+    "Fraz-Urbluu": {
+        "AC": 18,
+        "Book": "MTF 146",
+        "HP": 337,
+        "Located": "Planar",
+        "Speed": "40 Ft, Fly 40 Ft",
+        "Type": "Demon Lord, Fiend",
+        "XP": 50000
+    },
+    "Froghemoth": {
+        "AC": 14,
+        "Book": "VGM 145",
+        "HP": 184,
+        "Located": "Swamp",
+        "Speed": "30 Ft, Swim 30 Ft",
+        "Type": "Monstrosity",
+        "XP": 5900
+    },
+    "Frost Giant": {
+        "AC": 15,
+        "Book": "MM 155",
+        "HP": 138,
+        "Located": "Mountain, Arctic",
+        "Speed": "40 Ft",
+        "Type": "Giant",
+        "XP": 3900
+    },
+    "Frost Giant Everlasting One": {
+        "AC": 15,
+        "Book": "VGM 148",
+        "HP": 189,
+        "Located": "Mountain, Arctic",
+        "Speed": "40 Ft",
+        "Type": "Giant",
+        "XP": 8400
+    },
+    "Frost Salamander": {
+        "AC": 17,
+        "Book": "MTF 223",
+        "HP": 168,
+        "Located": "Arctic, Mountain",
+        "Speed": "60 Ft, Burrow 40 Ft, Climb 40 Ft",
+        "Type": "Elemental",
+        "XP": 5000
+    },
+    "Galeb Duhr": {
+        "AC": 16,
+        "Book": "MM 139",
+        "HP": 85,
+        "Located": "Mountain, Hill, Underdark",
+        "Speed": "15 Ft, 30 Ft Rolling, 60 Ft Roll Downhill",
+        "Type": "Elemental",
+        "XP": 2300
+    },
+    "Gargoyle": {
+        "AC": 15,
+        "Book": "MM 140",
+        "HP": 52,
+        "Located": "Urban",
+        "Speed": "30 Ft, Fly 60 Ft",
+        "Type": "Elemental",
+        "XP": 450
+    },
+    "Gauth": {
+        "AC": 15,
+        "Book": "VGM 125",
+        "HP": 67,
+        "Located": "Underdark, Planar, Urban",
+        "Speed": "Fly 20 Ft",
+        "Type": "Aberration",
+        "XP": 2300
+    },
+    "Gazer": {
+        "AC": 13,
+        "Book": "VGM 126",
+        "HP": 13,
+        "Located": "Urban, Underdark, Planar",
+        "Speed": "Fly 30 Ft",
+        "Type": "Aberration",
+        "XP": 100
+    },
+    "Gelatinous Cube": {
+        "AC": 6,
+        "Book": "MM 242",
+        "HP": 84,
+        "Located": "Underdark, Urban",
+        "Speed": "15 Ft",
+        "Type": "Ooze",
+        "XP": 450
+    },
+    "Geryon": {
+        "AC": 19,
+        "Book": "MTF 173",
+        "HP": 300,
+        "Located": "Planar",
+        "Speed": "30 Ft, Fly 50 Ft",
+        "Type": "Devil, Fiend",
+        "XP": 41000
+    },
+    "Ghast": {
+        "AC": 13,
+        "Book": "MM 148",
+        "HP": 36,
+        "Located": "Underdark, Cemetery",
+        "Speed": "30 Ft",
+        "Type": "Undead",
+        "XP": 450
+    },
+    "Ghost": {
+        "AC": 11,
+        "Book": "MM 147",
+        "HP": 45,
+        "Located": "Underdark, Cemetery, Urban",
+        "Speed": "Fly 40 Ft",
+        "Type": "Undead",
+        "XP": 1100
+    },
+    "Ghoul": {
+        "AC": 12,
+        "Book": "MM 148",
+        "HP": 22,
+        "Located": "Underdark, Cemetery",
+        "Speed": "30 Ft",
+        "Type": "Undead",
+        "XP": 200
+    },
+    "Giant Ape": {
+        "AC": 12,
+        "Book": "MM 323",
+        "HP": 157,
+        "Located": "Forest",
+        "Speed": "40 Ft, Climb 40 Ft",
+        "Type": "Beast",
+        "XP": 2900
+    },
+    "Giant Badger": {
+        "AC": 10,
+        "Book": "MM 323",
+        "HP": 13,
+        "Located": "Grassland",
+        "Speed": "30 Ft, Burrow 10 Ft",
+        "Type": "Beast",
+        "XP": 50
+    },
+    "Giant Bat": {
+        "AC": 13,
+        "Book": "MM 323",
+        "HP": 22,
+        "Located": "Underdark",
+        "Speed": "10 Ft, Fly 60 Ft",
+        "Type": "Beast",
+        "XP": 50
+    },
+    "Giant Boar": {
+        "AC": 12,
+        "Book": "MM 323",
+        "HP": 42,
+        "Located": "Grassland",
+        "Speed": "40 Ft",
+        "Type": "Beast",
+        "XP": 450
+    },
+    "Giant Centipede": {
+        "AC": 13,
+        "Book": "MM 323",
+        "HP": 4,
+        "Located": "Forest",
+        "Speed": "30 Ft, Climb 30 Ft",
+        "Type": "Beast",
+        "XP": 50
+    },
+    "Giant Constrictor Snake": {
+        "AC": 12,
+        "Book": "MM 324",
+        "HP": 60,
+        "Located": "Swamp",
+        "Speed": "30 Ft, Swim 30 Ft",
+        "Type": "Beast",
+        "XP": 450
+    },
+    "Giant Crab": {
+        "AC": 15,
+        "Book": "MM 324",
+        "HP": 13,
+        "Located": "Coast",
+        "Speed": "30 Ft, Swim 30 Ft",
+        "Type": "Beast",
+        "XP": 25
+    },
+    "Giant Crocodile": {
+        "AC": 14,
+        "Book": "MM 324",
+        "HP": 85,
+        "Located": "Swamp",
+        "Speed": "30 Ft, Swim 50 Ft",
+        "Type": "Beast",
+        "XP": 1800
+    },
+    "Giant Frog": {
+        "AC": 11,
+        "Book": "MM 325",
+        "HP": 18,
+        "Located": "Swamp",
+        "Speed": "30 Ft, Swim 30 Ft",
+        "Type": "Beast",
+        "XP": 50
+    },
+    "Giant Hyena": {
+        "AC": 12,
+        "Book": "MM 326",
+        "HP": 45,
+        "Located": "Grassland",
+        "Speed": "50 Ft",
+        "Type": "Beast",
+        "XP": 200
+    },
+    "Giant Lizard": {
+        "AC": 12,
+        "Book": "MM 326",
+        "HP": 19,
+        "Located": "Hills",
+        "Speed": "30 Ft, Climb 30 Ft",
+        "Type": "Beast",
+        "XP": 50
+    },
+    "Giant Octopus": {
+        "AC": 11,
+        "Book": "MM 326",
+        "HP": 52,
+        "Located": "Underwater",
+        "Speed": "10 Ft, Swim 60 Ft",
+        "Type": "Beast",
+        "XP": 200
+    },
+    "Giant Poisonous Snake": {
+        "AC": 14,
+        "Book": "MM 327",
+        "HP": 11,
+        "Located": "Swamp",
+        "Speed": "30 Ft, Swim 30 Ft",
+        "Type": "Beast",
+        "XP": 50
+    },
+    "Giant Rat": {
+        "AC": 12,
+        "Book": "MM 327",
+        "HP": 7,
+        "Located": "Underdark",
+        "Speed": "30 Ft",
+        "Type": "Beast",
+        "XP": 25
+    },
+    "Giant Scorpion": {
+        "AC": 15,
+        "Book": "MM 327",
+        "HP": 52,
+        "Located": "Desert",
+        "Speed": "40 Ft",
+        "Type": "Beast",
+        "XP": 700
+    },
+    "Giant Shark": {
+        "AC": 13,
+        "Book": "MM 328",
+        "HP": 126,
+        "Located": "Underwater",
+        "Speed": "Swim 50 Ft",
+        "Type": "Beast",
+        "XP": 1800
+    },
+    "Giant Spider": {
+        "AC": 14,
+        "Book": "MM 328",
+        "HP": 26,
+        "Located": "Forest",
+        "Speed": "30 Ft, Climb 30 Ft",
+        "Type": "Beast",
+        "XP": 200
+    },
+    "Giant Strider": {
+        "AC": 14,
+        "Book": "VGM 143",
+        "HP": 22,
+        "Located": "Mountain",
+        "Speed": "50 Ft",
+        "Type": "Monstrosity, Firenewt",
+        "XP": 200
+    },
+    "Giant Toad": {
+        "AC": 11,
+        "Book": "MM 329",
+        "HP": 39,
+        "Located": "Swamp",
+        "Speed": "20 Ft, Swim 40 Ft",
+        "Type": "Beast",
+        "XP": 200
+    },
+    "Giant Vulture": {
+        "AC": 10,
+        "Book": "MM 329",
+        "HP": 22,
+        "Located": "Desert",
+        "Speed": "10 Ft, Fly 60 Ft",
+        "Type": "Beast",
+        "XP": 200
+    },
+    "Giant Wasp": {
+        "AC": 12,
+        "Book": "MM 329",
+        "HP": 13,
+        "Located": "Grassland",
+        "Speed": "10 Ft, Fly 50 Ft",
+        "Type": "Beast",
+        "XP": 100
+    },
+    "Giant Weasel": {
+        "AC": 13,
+        "Book": "MM 329",
+        "HP": 9,
+        "Located": "Grassland",
+        "Speed": "40 Ft",
+        "Type": "Beast",
+        "XP": 25
+    },
+    "Giant Wolf Spider": {
+        "AC": 13,
+        "Book": "MM 330",
+        "HP": 11,
+        "Located": "Grassland",
+        "Speed": "40 Ft, Climb 40 Ft",
+        "Type": "Beast",
+        "XP": 50
+    },
+    "Gibbering Mouther": {
+        "AC": 9,
+        "Book": "MM 157",
+        "HP": 67,
+        "Located": "Underdark",
+        "Speed": "10 Ft, Swim 10 Ft",
+        "Type": "Aberration",
+        "XP": 450
+    },
+    "Giff": {
+        "AC": 16,
+        "Book": "MTF 204",
+        "HP": 60,
+        "Located": "Planar, Urban",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Giff",
+        "XP": 700
+    },
+    "Girallon": {
+        "AC": 13,
+        "Book": "VGM 152",
+        "HP": 59,
+        "Located": "Forest, Mountain, Jungle",
+        "Speed": "40 Ft, Climb 40 Ft",
+        "Type": "Monstrosity",
+        "XP": 1100
+    },
+    "Githyanki Gish": {
+        "AC": 17,
+        "Book": "MTF 205",
+        "HP": 123,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Gith",
+        "XP": 5900
+    },
+    "Githyanki Kithrak": {
+        "AC": 18,
+        "Book": "MTF 205",
+        "HP": 180,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Gith",
+        "XP": 8400
+    },
+    "Githyanki Knight": {
+        "AC": 18,
+        "Book": "MM 160",
+        "HP": 91,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Gith",
+        "XP": 3900
+    },
+    "Githyanki Supreme Commander": {
+        "AC": 18,
+        "Book": "MTF 206",
+        "HP": 187,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Gith",
+        "XP": 11500
+    },
+    "Githyanki Warrior": {
+        "AC": 17,
+        "Book": "MM 160",
+        "HP": 49,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Gith",
+        "XP": 700
+    },
+    "Glabrezu": {
+        "AC": 17,
+        "Book": "MM 58",
+        "HP": 157,
+        "Located": "Planar",
+        "Speed": "40 Ft",
+        "Type": "Demon, Fiend",
+        "XP": 5000
+    },
+    "Gladiator": {
+        "AC": 16,
+        "Book": "MM 346",
+        "HP": 112,
+        "Located": "Urban",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 1800
+    },
+    "Gloom Weaver": {
+        "AC": 14,
+        "Book": "MTF 224",
+        "HP": 104,
+        "Located": "Planar, Underdark, Cemetery",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Shadar-Kai",
+        "XP": 5000
+    },
+    "Gnoll": {
+        "AC": 15,
+        "Book": "MM 163",
+        "HP": 22,
+        "Located": "Grassland, Hill",
+        "Speed": "30 Ft",
+        "Type": "Humanoid (Gnoll)",
+        "XP": 100
+    },
+    "Gnoll Fang Of Yeenoghu": {
+        "AC": 14,
+        "Book": "MM 163",
+        "HP": 65,
+        "Located": "Grassland, Hill",
+        "Speed": "30 Ft",
+        "Type": "Fiend, Gnoll",
+        "XP": 1100
+    },
+    "Gnoll Flesh Gnawer": {
+        "AC": 14,
+        "Book": "VGM 154",
+        "HP": 22,
+        "Located": "Grassland, Hill",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Gnoll",
+        "XP": 200
+    },
+    "Gnoll Hunter": {
+        "AC": 13,
+        "Book": "VGM 154",
+        "HP": 22,
+        "Located": "Grassland, Hill",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Gnoll",
+        "XP": 100
+    },
+    "Gnoll Pack Lord": {
+        "AC": 15,
+        "Book": "MM 163",
+        "HP": 49,
+        "Located": "Grassland, Hill",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Gnoll",
+        "XP": 450
+    },
+    "Gnoll Witherling": {
+        "AC": 12,
+        "Book": "VGM 155",
+        "HP": 11,
+        "Located": "Grassland, Hill",
+        "Speed": "30 Ft",
+        "Type": "Undead, Gnoll",
+        "XP": 50
+    },
+    "Goblin": {
+        "AC": 15,
+        "Book": "MM 166",
+        "HP": 7,
+        "Located": "Grassland, Hill, Mountain",
+        "Speed": "30 Ft",
+        "Type": "Humanoid (Goblinoid)",
+        "XP": 50
+    },
+    "Goblin Boss": {
+        "AC": 17,
+        "Book": "MM 166",
+        "HP": 21,
+        "Located": "Grassland, Hill, Mountain",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Goblinoid",
+        "XP": 200
+    },
+    "Gorgon": {
+        "AC": 19,
+        "Book": "MM 171",
+        "HP": 114,
+        "Located": "Hill, Desert, Grassland",
+        "Speed": "40 Ft",
+        "Type": "Monstrosity",
+        "XP": 1800
+    },
+    "Goristro": {
+        "AC": 19,
+        "Book": "MM 59",
+        "HP": 310,
+        "Located": "Planar",
+        "Speed": "40 Ft",
+        "Type": "Demon, Fiend",
+        "XP": 18000
+    },
+    "Gray Ooze": {
+        "AC": 8,
+        "Book": "MM 243",
+        "HP": 22,
+        "Located": "Underdark, Urban",
+        "Speed": "10 Ft, Climb 10 Ft",
+        "Type": "Ooze",
+        "XP": 100
+    },
+    "Gray Render": {
+        "AC": 19,
+        "Book": "MTF 209",
+        "HP": 189,
+        "Located": "Forest, Hill, Mountain, Swamp",
+        "Speed": "30 Ft",
+        "Type": "Monstrosity",
+        "XP": 8400
+    },
+    "Gray Slaad": {
+        "AC": 18,
+        "Book": "MM 277",
+        "HP": 127,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Aberration",
+        "XP": 5000
+    },
+    "Grazzt": {
+        "AC": 20,
+        "Book": "MTF 149",
+        "HP": 346,
+        "Located": "Planar",
+        "Speed": "40 Ft",
+        "Type": "Demon Lord, Fiend",
+        "XP": 62000
+    },
+    "Great Old One Warlock": {
+        "AC": 12,
+        "Book": "VGM 220",
+        "HP": 91,
+        "Located": "Urban, Underdark, Planar",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 2300
+    },
+    "Green Abishai": {
+        "AC": 18,
+        "Book": "MTF 162",
+        "HP": 187,
+        "Located": "Planar",
+        "Speed": "30 Ft, Fly 40 Ft",
+        "Type": "Devil, Fiend, Dragon",
+        "XP": 13000
+    },
+    "Green Dragon Wyrmling": {
+        "AC": 17,
+        "Book": "MM 95",
+        "HP": 38,
+        "Located": "Forest",
+        "Speed": "30 Ft, Fly 60 Ft, Swim 30 Ft",
+        "Type": "Dragon",
+        "XP": 450
+    },
+    "Green Hag": {
+        "AC": 17,
+        "Book": "MM 177",
+        "HP": 82,
+        "Located": "Forest",
+        "Speed": "30 Ft",
+        "Type": "Fey",
+        "XP": 700
+    },
+    "Green Slaad": {
+        "AC": 16,
+        "Book": "MM 277",
+        "HP": 127,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Aberration",
+        "XP": 3900
+    },
+    "Grell": {
+        "AC": 12,
+        "Book": "MM 172",
+        "HP": 55,
+        "Located": "Underdark, Planar",
+        "Speed": "10 Ft, Fly 30 Ft",
+        "Type": "Aberration",
+        "XP": 700
+    },
+    "Grick": {
+        "AC": 14,
+        "Book": "MM 173",
+        "HP": 27,
+        "Located": "Underdark",
+        "Speed": "30 Ft, Climb 30 Ft",
+        "Type": "Monstrosity",
+        "XP": 450
+    },
+    "Grick Alpha": {
+        "AC": 18,
+        "Book": "MM 173",
+        "HP": 75,
+        "Located": "Underdark, Mountain, Hill",
+        "Speed": "30 Ft, Climb 30 Ft",
+        "Type": "Monstrosity",
+        "XP": 2900
+    },
+    "Griffon": {
+        "AC": 12,
+        "Book": "MM 174",
+        "HP": 59,
+        "Located": "Coast, Mountain",
+        "Speed": "30 Ft, Fly 80 Ft",
+        "Type": "Monstrosity",
+        "XP": 450
+    },
+    "Grimlock": {
+        "AC": 11,
+        "Book": "MM 175",
+        "HP": 11,
+        "Located": "Underdark",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 50
+    },
+    "Grung": {
+        "AC": 12,
+        "Book": "VGM 156",
+        "HP": 11,
+        "Located": "Jungle, Swamp",
+        "Speed": "25 Ft, Climb 25 Ft",
+        "Type": "Humanoid, Grung",
+        "XP": 50
+    },
+    "Grung Elite Warrior": {
+        "AC": 13,
+        "Book": "VGM 157",
+        "HP": 49,
+        "Located": "Jungle, Swamp",
+        "Speed": "25 Ft, Climb 25 Ft",
+        "Type": "Humanoid, Grung",
+        "XP": 450
+    },
+    "Grung Wildling": {
+        "AC": 13,
+        "Book": "VGM 157",
+        "HP": 27,
+        "Located": "Jungle, Swamp",
+        "Speed": "25 Ft, Climb 25 Ft",
+        "Type": "Humanoid, Grung",
+        "XP": 200
+    },
+    "Guard Drake": {
+        "AC": 14,
+        "Book": "VGM 158",
+        "HP": 52,
+        "Located": "Urban, Mountain, Underdark, Hill, Desert",
+        "Speed": "30 Ft",
+        "Type": "Dragon",
+        "XP": 450
+    },
+    "Half-Ogre": {
+        "AC": 12,
+        "Book": "MM 238",
+        "HP": 30,
+        "Located": "Urban, Grassland, Hill, Mountain",
+        "Speed": "30 Ft",
+        "Type": "Giant",
+        "XP": 200
+    },
+    "Harpy": {
+        "AC": 11,
+        "Book": "MM 181",
+        "HP": 38,
+        "Located": "Mountain, Coast",
+        "Speed": "20 Ft, Fly 40 Ft",
+        "Type": "Monstrosity",
+        "XP": 200
+    },
+    "Hell Hound": {
+        "AC": 15,
+        "Book": "MM 182",
+        "HP": 45,
+        "Located": "Planar",
+        "Speed": "50 Ft",
+        "Type": "Devil, Fiend",
+        "XP": 700
+    },
+    "Hellfire Engine": {
+        "AC": 18,
+        "Book": "MTF 165",
+        "HP": 216,
+        "Located": "Planar",
+        "Speed": "40 Ft",
+        "Type": "Construct, Devil",
+        "XP": 15000
+    },
+    "Helmed Horror": {
+        "AC": 20,
+        "Book": "MM 183",
+        "HP": 60,
+        "Located": "Urban",
+        "Speed": "30 Ft, Fly 30 Ft",
+        "Type": "Construct",
+        "XP": 1100
+    },
+    "Hezrou": {
+        "AC": 16,
+        "Book": "MM 60",
+        "HP": 136,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Demon, Fiend",
+        "XP": 3900
+    },
+    "Hill Giant": {
+        "AC": 13,
+        "Book": "MM 155",
+        "HP": 105,
+        "Located": "Hill",
+        "Speed": "40 Ft",
+        "Type": "Giant",
+        "XP": 1800
+    },
+    "Hippogriff": {
+        "AC": 11,
+        "Book": "MM 184",
+        "HP": 19,
+        "Located": "Grassland, Forest, Mountain",
+        "Speed": "40 Ft, Fly 60 Ft",
+        "Type": "Monstrosity",
+        "XP": 200
+    },
+    "Hobgoblin": {
+        "AC": 18,
+        "Book": "MM 186",
+        "HP": 11,
+        "Located": "Grassland, Hill, Mountain",
+        "Speed": "30 Ft",
+        "Type": "Humanoid (Goblinoid)",
+        "XP": 100
+    },
+    "Hobgoblin Captain": {
+        "AC": 17,
+        "Book": "MM 186",
+        "HP": 39,
+        "Located": "Grassland, Hill, Mountain",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Goblinoid",
+        "XP": 700
+    },
+    "Hobgoblin Devastator": {
+        "AC": 13,
+        "Book": "VGM 161",
+        "HP": 45,
+        "Located": "Grassland, Hill, Mountain",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Goblinoid",
+        "XP": 1100
+    },
+    "Hobgoblin Iron Shadow": {
+        "AC": 15,
+        "Book": "VGM 162",
+        "HP": 32,
+        "Located": "Grassland, Hill, Mountain",
+        "Speed": "40 Ft",
+        "Type": "Humanoid, Goblinoid",
+        "XP": 450
+    },
+    "Hobgoblin Warlord": {
+        "AC": 20,
+        "Book": "MM 187",
+        "HP": 97,
+        "Located": "Grassland, Hill, Mountain",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Goblinoid",
+        "XP": 2300
+    },
+    "Homunculus": {
+        "AC": 13,
+        "Book": "MM 188",
+        "HP": 5,
+        "Located": "Urban",
+        "Speed": "20 Ft, Fly 40 Ft",
+        "Type": "Construct",
+        "XP": 10
+    },
+    "Hook Horror": {
+        "AC": 15,
+        "Book": "MM 189",
+        "HP": 75,
+        "Located": "Underdark",
+        "Speed": "30 Ft, Climb 30 Ft",
+        "Type": "Monstrosity",
+        "XP": 700
+    },
+    "Horned Devil": {
+        "AC": 18,
+        "Book": "MM 74",
+        "HP": 178,
+        "Located": "Planar",
+        "Speed": "20 Ft, Fly 60 Ft",
+        "Type": "Devil, Fiend",
+        "XP": 7200
+    },
+    "Howler": {
+        "AC": 16,
+        "Book": "MTF 210",
+        "HP": 90,
+        "Located": "Planar",
+        "Speed": "40 Ft",
+        "Type": "Fiend",
+        "XP": 3900
+    },
+    "Hunter Shark": {
+        "AC": 12,
+        "Book": "MM 330",
+        "HP": 45,
+        "Located": "Underwater",
+        "Speed": "Swim 40 Ft",
+        "Type": "Beast",
+        "XP": 450
+    },
+    "Hutijin": {
+        "AC": 19,
+        "Book": "MTF 175",
+        "HP": 200,
+        "Located": "Planar",
+        "Speed": "30 Ft, Fly 60 Ft",
+        "Type": "Devil, Fiend",
+        "XP": 33000
+    },
+    "Hydra": {
+        "AC": 15,
+        "Book": "MM 190",
+        "HP": 172,
+        "Located": "Swamp, Coast",
+        "Speed": "30 Ft, Swim 30 Ft",
+        "Type": "Monstrosity",
+        "XP": 3900
+    },
+    "Hydroloth": {
+        "AC": 15,
+        "Book": "MTF 249",
+        "HP": 135,
+        "Located": "Planar, Swamp, Coast",
+        "Speed": "20 Ft, Swim 40 Ft",
+        "Type": "Fiend, Yugoloth",
+        "XP": 5000
+    },
+    "Ice Devil": {
+        "AC": 18,
+        "Book": "MM 75",
+        "HP": 180,
+        "Located": "Planar",
+        "Speed": "40 Ft",
+        "Type": "Devil, Fiend",
+        "XP": 11500
+    },
+    "Ice Mephit": {
+        "AC": 11,
+        "Book": "MM 215",
+        "HP": 21,
+        "Located": "Arctic",
+        "Speed": "30 Ft, Fly 30 Ft",
+        "Type": "Elemental",
+        "XP": 100
+    },
+    "Illusionist": {
+        "AC": 12,
+        "Book": "VGM 214",
+        "HP": 38,
+        "Located": "Urban",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 700
+    },
+    "Imp": {
+        "AC": 13,
+        "Book": "MM 76",
+        "HP": 10,
+        "Located": "Urban",
+        "Speed": "20 Ft, Fly 40 Ft",
+        "Type": "Fiend",
+        "XP": 200
+    },
+    "Intellect Devourer": {
+        "AC": 12,
+        "Book": "MM 191",
+        "HP": 21,
+        "Located": "Underdark, Planar",
+        "Speed": "40 Ft",
+        "Type": "Aberration, Mindflayer",
+        "XP": 450
+    },
+    "Invisible Stalker": {
+        "AC": 14,
+        "Book": "MM 192",
+        "HP": 104,
+        "Located": "Planar",
+        "Speed": "50 Ft, Fly 50 Ft",
+        "Type": "Elemental",
+        "XP": 2300
+    },
+    "Iron Cobra": {
+        "AC": 13,
+        "Book": "MTF 125",
+        "HP": 45,
+        "Located": "Urban, Underdark",
+        "Speed": "30 Ft",
+        "Type": "Construct",
+        "XP": 1100
+    },
+    "Iron Golem": {
+        "AC": 20,
+        "Book": "MM 170",
+        "HP": 210,
+        "Located": "Underdark",
+        "Speed": "30 Ft",
+        "Type": "Construct",
+        "XP": 15000
+    },
+    "Jackalwere": {
+        "AC": 12,
+        "Book": "MM 193",
+        "HP": 18,
+        "Located": "Desert, Hill",
+        "Speed": "40 Ft",
+        "Type": "Humanoid, Shapechanger",
+        "XP": 100
+    },
+    "Juiblex": {
+        "AC": 18,
+        "Book": "MTF 151",
+        "HP": 350,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Demon Lord, Fiend",
+        "XP": 50000
+    },
+    "Killer Whale": {
+        "AC": 12,
+        "Book": "MM 331",
+        "HP": 90,
+        "Located": "Underwater",
+        "Speed": "Swim 60 Ft",
+        "Type": "Beast",
+        "XP": 700
+    },
+    "Knight": {
+        "AC": 18,
+        "Book": "MM 347",
+        "HP": 52,
+        "Located": "Urban, Grassland, Hill, Coast",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 700
+    },
+    "Kobold": {
+        "AC": 12,
+        "Book": "MM 195",
+        "HP": 5,
+        "Located": "Mountain, Underdark",
+        "Speed": "30 Ft",
+        "Type": "Humanoid (Kobold)",
+        "XP": 25
+    },
+    "Kobold Dragonshield": {
+        "AC": 15,
+        "Book": "VGM 165",
+        "HP": 44,
+        "Located": "Mountain, Underdark, Hill",
+        "Speed": "20 Ft",
+        "Type": "Humanoid, Kobold",
+        "XP": 200
+    },
+    "Kobold Inventor": {
+        "AC": 12,
+        "Book": "VGM 166",
+        "HP": 13,
+        "Located": "Mountain, Underdark, Hill",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Kobold",
+        "XP": 50
+    },
+    "Kobold Scale Sorcerer": {
+        "AC": 15,
+        "Book": "VGM 167",
+        "HP": 27,
+        "Located": "Mountain, Underdark, Hill",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Kobold",
+        "XP": 200
+    },
+    "Korred": {
+        "AC": 17,
+        "Book": "VGM 168",
+        "HP": 102,
+        "Located": "Underdark, Mountain",
+        "Speed": "30 Ft, Burrow 30 Ft",
+        "Type": "Fey",
+        "XP": 2900
+    },
+    "Kraken": {
+        "AC": 18,
+        "Book": "MM 197",
+        "HP": 472,
+        "Located": "Coast, Underwater, Planar",
+        "Speed": "20 Ft, Swim 60 Ft",
+        "Type": "Monstrosity",
+        "XP": 50000
+    },
+    "Kraken Priest": {
+        "AC": 10,
+        "Book": "VGM 215",
+        "HP": 75,
+        "Located": "Underwater, Coast, Urban",
+        "Speed": "30 Ft, Swim 30 Ft",
+        "Type": "Humanoid",
+        "XP": 1800
+    },
+    "Kuo-Toa": {
+        "AC": 13,
+        "Book": "MM 199",
+        "HP": 18,
+        "Located": "Underwater, Coast, Underdark",
+        "Speed": "30 Ft, Swim 30 Ft",
+        "Type": "Humanoid, Kuo-Toa",
+        "XP": 50
+    },
+    "Kuo-Toa Archpriest": {
+        "AC": 13,
+        "Book": "MM 200",
+        "HP": 97,
+        "Located": "Underwater, Coast, Underdark",
+        "Speed": "30 Ft, Swim 30 Ft",
+        "Type": "Humanoid, Kuo-Toa",
+        "XP": 2300
+    },
+    "Kuo-Toa Whip": {
+        "AC": 11,
+        "Book": "MM 200",
+        "HP": 65,
+        "Located": "Underwater, Coast, Underdark",
+        "Speed": "30 Ft, Swim 30 Ft",
+        "Type": "Humanoid, Kuo-Toa",
+        "XP": 200
+    },
+    "Kuthrik Hive Lord": {
+        "AC": 20,
+        "Book": "MTF 212",
+        "HP": 102,
+        "Located": "Underdark, Mountain, Hill",
+        "Speed": "40 Ft, Burrow 20 Ft, Climb 40 Ft",
+        "Type": "Monstrosity",
+        "XP": 1800
+    },
+    "Lamia": {
+        "AC": 13,
+        "Book": "MM 201",
+        "HP": 97,
+        "Located": "Desert, Hill",
+        "Speed": "30 Ft",
+        "Type": "Monstrosity",
+        "XP": 1100
+    },
+    "Lemure": {
+        "AC": 7,
+        "Book": "MM 76",
+        "HP": 13,
+        "Located": "Planar",
+        "Speed": "15 Ft",
+        "Type": "Devil, Fiend",
+        "XP": 10
+    },
+    "Leucrotta": {
+        "AC": 14,
+        "Book": "VGM 169",
+        "HP": 67,
+        "Located": "Grassland, Hill",
+        "Speed": "50 Ft",
+        "Type": "Monstrosity, Gnoll",
+        "XP": 700
+    },
+    "Leviathan": {
+        "AC": 17,
+        "Book": "MTF 198",
+        "HP": 328,
+        "Located": "Underwater, Coast",
+        "Speed": "40 Ft, Swim 120 Ft",
+        "Type": "Elemental",
+        "XP": 25000
+    },
+    "Lich": {
+        "AC": 17,
+        "Book": "MM 202",
+        "HP": 135,
+        "Located": "Urban, Cemetery, Underdark, Mountain, Swamp",
+        "Speed": "30 Ft",
+        "Type": "Undead",
+        "XP": 33000
+    },
+    "Lion": {
+        "AC": 12,
+        "Book": "MM 331",
+        "HP": 26,
+        "Located": "Grassland",
+        "Speed": "50 Ft",
+        "Type": "Beast",
+        "XP": 200
+    },
+    "Lizardfolk": {
+        "AC": 15,
+        "Book": "MM 204",
+        "HP": 22,
+        "Located": "Swamp, Coast",
+        "Speed": "30 Ft, Swim 30 Ft",
+        "Type": "Humanoid (Lizardfolk)",
+        "XP": 100
+    },
+    "Lizardfolk King/Queen": {
+        "AC": 15,
+        "Book": "MM 205",
+        "HP": 78,
+        "Located": "Swamp, Coast",
+        "Speed": "30 Ft, Swim 30 Ft",
+        "Type": "Humanoid, Lizardfolk",
+        "XP": 1100
+    },
+    "Lizardfolk Shaman": {
+        "AC": 13,
+        "Book": "MM 205",
+        "HP": 27,
+        "Located": "Swamp, Coast",
+        "Speed": "30 Ft, Swim 30 Ft",
+        "Type": "Humanoid, Lizardfolk",
+        "XP": 450
+    },
+    "Mage": {
+        "AC": 12,
+        "Book": "MM 347",
+        "HP": 40,
+        "Located": "Urban, Coast, Grassland",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 2300
+    },
+    "Magma Mephit": {
+        "AC": 11,
+        "Book": "MM 216",
+        "HP": 22,
+        "Located": "Mountain",
+        "Speed": "30 Ft, Fly 30 Ft",
+        "Type": "Elemental",
+        "XP": 100
+    },
+    "Magmin": {
+        "AC": 14,
+        "Book": "MM 212",
+        "HP": 9,
+        "Located": "Planar, Mountain",
+        "Speed": "30 Ft",
+        "Type": "Elemental",
+        "XP": 100
+    },
+    "Male Steeder": {
+        "AC": 12,
+        "Book": "MTF 238",
+        "HP": 13,
+        "Located": "Underdark",
+        "Speed": "30 Ft, Climb 30 Ft",
+        "Type": "Monstrosity, Duergar",
+        "XP": 50
+    },
+    "Mammoth": {
+        "AC": 13,
+        "Book": "MM 332",
+        "HP": 126,
+        "Located": "Arctic",
+        "Speed": "40 Ft",
+        "Type": "Beast",
+        "XP": 2300
+    },
+    "Manes": {
+        "AC": 9,
+        "Book": "MM 60",
+        "HP": 9,
+        "Located": "Planar",
+        "Speed": "20 Ft",
+        "Type": "Demon, Fiend",
+        "XP": 25
+    },
+    "Manticore": {
+        "AC": 14,
+        "Book": "MM 213",
+        "HP": 68,
+        "Located": "Mountain, Hill, Coast, Grassland",
+        "Speed": "30 Ft, Fly 50 Ft",
+        "Type": "Monstrosity",
+        "XP": 700
+    },
+    "Marid": {
+        "AC": 17,
+        "Book": "MM 146",
+        "HP": 229,
+        "Located": "Underwater, Coast, Planar",
+        "Speed": "30 Ft, Fly 60 Ft, Swim 90 Ft",
+        "Type": "Elemental",
+        "XP": 7200
+    },
+    "Marilith": {
+        "AC": 18,
+        "Book": "MM 61",
+        "HP": 189,
+        "Located": "Planar",
+        "Speed": "40 Ft",
+        "Type": "Demon, Fiend",
+        "XP": 15000
+    },
+    "Martial Arts Adept": {
+        "AC": 16,
+        "Book": "VGM 216",
+        "HP": 60,
+        "Located": "Urban, Mountain, Coast, Desert",
+        "Speed": "40 Ft",
+        "Type": "Humanoid",
+        "XP": 700
+    },
+    "Marut": {
+        "AC": 22,
+        "Book": "MTF 213",
+        "HP": 432,
+        "Located": "Planar",
+        "Speed": "40 Ft, Fly 30 Ft",
+        "Type": "Construct, Inevitable",
+        "XP": 75000
+    },
+    "Master Thief": {
+        "AC": 16,
+        "Book": "VGM 216",
+        "HP": 84,
+        "Located": "Urban",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 1800
+    },
+    "Mastiff": {
+        "AC": 12,
+        "Book": "MM 332",
+        "HP": 5,
+        "Located": "Urban",
+        "Speed": "40 Ft",
+        "Type": "Beast",
+        "XP": 25
+    },
+    "Maurezhi": {
+        "AC": 15,
+        "Book": "MTF 133",
+        "HP": 88,
+        "Located": "Planar, Cemetery",
+        "Speed": "30 Ft",
+        "Type": "Demon, Fiend",
+        "XP": 2900
+    },
+    "Maw Demon": {
+        "AC": 13,
+        "Book": "VGM 137",
+        "HP": 33,
+        "Located": "Planar, Grassland, Hill",
+        "Speed": "30 Ft",
+        "Type": "Demon, Fiend",
+        "XP": 200
+    },
+    "Meazel": {
+        "AC": 13,
+        "Book": "MTF 214",
+        "HP": 35,
+        "Located": "Underdark, Cemetery, Planar",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Meazel",
+        "XP": 200
+    },
+    "Medusa": {
+        "AC": 15,
+        "Book": "MM 214",
+        "HP": 127,
+        "Located": "Mountain, Underdark, Hill, Desert",
+        "Speed": "30 Ft",
+        "Type": "Monstrosity",
+        "XP": 2300
+    },
+    "Meenlock": {
+        "AC": 15,
+        "Book": "VGM 170",
+        "HP": 31,
+        "Located": "Forest, Swamp, Underdark",
+        "Speed": "30 Ft",
+        "Type": "Fey",
+        "XP": 450
+    },
+    "Merfolk": {
+        "AC": 11,
+        "Book": "MM 218",
+        "HP": 11,
+        "Located": "Underwater, Coast",
+        "Speed": "10 Ft, Swim 40 Ft",
+        "Type": "Humanoid (Merfolk)",
+        "XP": 25
+    },
+    "Merregon": {
+        "AC": 16,
+        "Book": "MTF 166",
+        "HP": 45,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Devil, Fiend",
+        "XP": 1100
+    },
+    "Merrenoloth": {
+        "AC": 13,
+        "Book": "MTF 250",
+        "HP": 40,
+        "Located": "Planar",
+        "Speed": "30 Ft, Swim 40 Ft",
+        "Type": "Fiend, Yugoloth",
+        "XP": 700
+    },
+    "Merrow": {
+        "AC": 13,
+        "Book": "MM 219",
+        "HP": 45,
+        "Located": "Underwater, Coast",
+        "Speed": "10 Ft, Swim 40 Ft",
+        "Type": "Monstrosity",
+        "XP": 450
+    },
+    "Mezzoloth": {
+        "AC": 18,
+        "Book": "MM 313",
+        "HP": 75,
+        "Located": "Planar",
+        "Speed": "40 Ft",
+        "Type": "Fiend, Yugoloth",
+        "XP": 1800
+    },
+    "Mimic": {
+        "AC": 12,
+        "Book": "MM 220",
+        "HP": 58,
+        "Located": "Underdark, Urban",
+        "Speed": "15 Ft",
+        "Type": "Monstrosity",
+        "XP": 450
+    },
+    "Mind Flayer": {
+        "AC": 15,
+        "Book": "MM 222",
+        "HP": 71,
+        "Located": "Underdark, Planar",
+        "Speed": "30 Ft",
+        "Type": "Aberration, Mindflayer",
+        "XP": 2900
+    },
+    "Mindwitness": {
+        "AC": 15,
+        "Book": "VGM 176",
+        "HP": 75,
+        "Located": "Underdark, Planar",
+        "Speed": "Fly 20 Ft",
+        "Type": "Aberration, Mindflayer",
+        "XP": 1800
+    },
+    "Minotaur": {
+        "AC": 14,
+        "Book": "MM 223",
+        "HP": 76,
+        "Located": "Grassland, Hill, Planar",
+        "Speed": "40 Ft",
+        "Type": "Monstrosity",
+        "XP": 700
+    },
+    "Minotaur Skeleton": {
+        "AC": 12,
+        "Book": "MM 273",
+        "HP": 67,
+        "Located": "Underdark, Cemetery, Grassland, Hill",
+        "Speed": "40 Ft",
+        "Type": "Undead",
+        "XP": 450
+    },
+    "Moloch": {
+        "AC": 19,
+        "Book": "MTF 177",
+        "HP": 253,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Devil, Fiend",
+        "XP": 33000
+    },
+    "Molydeus": {
+        "AC": 19,
+        "Book": "MTF 134",
+        "HP": 216,
+        "Located": "Planar",
+        "Speed": "40 Ft",
+        "Type": "Demon, Fiend",
+        "XP": 33000
+    },
+    "Morkoth": {
+        "AC": 17,
+        "Book": "VGM 178",
+        "HP": 130,
+        "Located": "Coast, Underwater, Planar",
+        "Speed": "25 Ft, Swim 50 Ft",
+        "Type": "Aberration",
+        "XP": 7200
+    },
+    "Mouth Of Grolantor": {
+        "AC": 14,
+        "Book": "VGM 149",
+        "HP": 105,
+        "Located": "Grassland, Hill",
+        "Speed": "50 Ft",
+        "Type": "Giant",
+        "XP": 2300
+    },
+    "Mud Mephit": {
+        "AC": 11,
+        "Book": "MM 216",
+        "HP": 27,
+        "Located": "Swamp, Coast",
+        "Speed": "20 Ft, Fly 20 Ft, Swim 20 Ft",
+        "Type": "Elemental",
+        "XP": 50
+    },
+    "Mummy": {
+        "AC": 11,
+        "Book": "MM 228",
+        "HP": 58,
+        "Located": "Desert, Cemetery, Underdark",
+        "Speed": "20 Ft",
+        "Type": "Undead",
+        "XP": 700
+    },
+    "Mummy Lord": {
+        "AC": 17,
+        "Book": "MM 229",
+        "HP": 97,
+        "Located": "Desert, Cemetery, Underdark",
+        "Speed": "20 Ft",
+        "Type": "Undead",
+        "XP": 13000
+    },
+    "Nabassu": {
+        "AC": 18,
+        "Book": "MTF 135",
+        "HP": 190,
+        "Located": "Planar",
+        "Speed": "40 Ft, Fly 60 Ft",
+        "Type": "Demon, Fiend",
+        "XP": 13000
+    },
+    "Nagpa": {
+        "AC": 19,
+        "Book": "MTF 215",
+        "HP": 187,
+        "Located": "Forest, Swamp, Underdark, Mountain",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Nagpa",
+        "XP": 18000
+    },
+    "Nalfeshnee": {
+        "AC": 18,
+        "Book": "MM 62",
+        "HP": 184,
+        "Located": "Planar",
+        "Speed": "20 Ft, Fly 30 Ft",
+        "Type": "Demon, Fiend",
+        "XP": 10000
+    },
+    "Narzugon": {
+        "AC": 20,
+        "Book": "MTF 167",
+        "HP": 112,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Devil, Fiend",
+        "XP": 10000
+    },
+    "Necromancer": {
+        "AC": 12,
+        "Book": "VGM 217",
+        "HP": 66,
+        "Located": "Urban, Underdark, Mountain",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 5000
+    },
+    "Needle Blight": {
+        "AC": 12,
+        "Book": "MM 32",
+        "HP": 11,
+        "Located": "Swamp, Forest",
+        "Speed": "30 Ft",
+        "Type": "Plant",
+        "XP": 50
+    },
+    "Neogi": {
+        "AC": 15,
+        "Book": "VGM 180",
+        "HP": 33,
+        "Located": "Desert, Mountain, Hill, Planar",
+        "Speed": "30 Ft, Climb 30 Ft",
+        "Type": "Aberration, Neogi",
+        "XP": 700
+    },
+    "Neogi Hatchling": {
+        "AC": 11,
+        "Book": "VGM 179",
+        "HP": 7,
+        "Located": "Desert, Mountain, Hill, Planar",
+        "Speed": "20 Ft, Climb 40 Ft",
+        "Type": "Aberration, Neogi",
+        "XP": 25
+    },
+    "Neogi Master": {
+        "AC": 15,
+        "Book": "VGM 180",
+        "HP": 71,
+        "Located": "Desert, Mountain, Hill, Planar",
+        "Speed": "30 Ft, Climb 30 Ft",
+        "Type": "Aberration, Neogi",
+        "XP": 1100
+    },
+    "Neothelid": {
+        "AC": 16,
+        "Book": "VGM 181",
+        "HP": 325,
+        "Located": "Underdark, Planar",
+        "Speed": "30 Ft",
+        "Type": "Aberration",
+        "XP": 10000
+    },
+    "Night Hag": {
+        "AC": 17,
+        "Book": "MM 178",
+        "HP": 112,
+        "Located": "Planar",
+        "Speed": "30 F",
+        "Type": "Fiend",
+        "XP": 1800
+    },
+    "Nightmare": {
+        "AC": 13,
+        "Book": "MM 235",
+        "HP": 68,
+        "Located": "Planar",
+        "Speed": "60 Ft, Fly 90 Ft",
+        "Type": "Fiend",
+        "XP": 700
+    },
+    "Nightwalker": {
+        "AC": 14,
+        "Book": "MTF 216",
+        "HP": 297,
+        "Located": "Planar, Underdark",
+        "Speed": "40 Ft, Fly 40 Ft",
+        "Type": "Undead",
+        "XP": 25000
+    },
+    "Nilbog": {
+        "AC": 13,
+        "Book": "VGM 182",
+        "HP": 7,
+        "Located": "Grassland, Hill, Mountain",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Goblinoid",
+        "XP": 200
+    },
+    "Nothic": {
+        "AC": 15,
+        "Book": "MM 236",
+        "HP": 45,
+        "Located": "Underdark",
+        "Speed": "30 Ft",
+        "Type": "Aberration",
+        "XP": 450
+    },
+    "Nupperibo": {
+        "AC": 13,
+        "Book": "MTF 168",
+        "HP": 11,
+        "Located": "Planar",
+        "Speed": "20 Ft",
+        "Type": "Devil, Fiend",
+        "XP": 100
+    },
+    "Nycaloth": {
+        "AC": 18,
+        "Book": "MM 314",
+        "HP": 123,
+        "Located": "Planar",
+        "Speed": "40 Ft, Fly 60 Ft",
+        "Type": "Fiend, Yugoloth",
+        "XP": 5000
+    },
+    "Oaken Bolter": {
+        "AC": 16,
+        "Book": "MTF 126",
+        "HP": 58,
+        "Located": "Urban, Underdark, Mountain",
+        "Speed": "30 Ft",
+        "Type": "Construct",
+        "XP": 1800
+    },
+    "Oblex Spawn": {
+        "AC": 13,
+        "Book": "MTF 217",
+        "HP": 18,
+        "Located": "Urban, Underdark",
+        "Speed": "20 Ft",
+        "Type": "Ooze",
+        "XP": 50
+    },
+    "Ochre Jelly": {
+        "AC": 8,
+        "Book": "MM 243",
+        "HP": 45,
+        "Located": "Underdark, Urban",
+        "Speed": "10 Ft, Climb 10 Ft",
+        "Type": "Ooze",
+        "XP": 450
+    },
+    "Ogre": {
+        "AC": 11,
+        "Book": "MM 237",
+        "HP": 59,
+        "Located": "Hill, Grassland",
+        "Speed": "40 Ft",
+        "Type": "Giant",
+        "XP": 450
+    },
+    "Ogre Battering Ram": {
+        "AC": 14,
+        "Book": "MTF 220",
+        "HP": 59,
+        "Located": "Grassland, Hill, Mountain",
+        "Speed": "40 Ft",
+        "Type": "Giant",
+        "XP": 1100
+    },
+    "Ogre Bolt Launcher": {
+        "AC": 13,
+        "Book": "MTF 220",
+        "HP": 59,
+        "Located": "Grassland, Hill, Mountain",
+        "Speed": "40 Ft",
+        "Type": "Giant",
+        "XP": 450
+    },
+    "Ogre Chain Brute": {
+        "AC": 11,
+        "Book": "MTF 221",
+        "HP": 59,
+        "Located": "Grassland, Hill, Mountain",
+        "Speed": "40 Ft",
+        "Type": "Giant",
+        "XP": 700
+    },
+    "Ogre Howdah": {
+        "AC": 13,
+        "Book": "MTF 221",
+        "HP": 59,
+        "Located": "Grassland, Hill, Mountain",
+        "Speed": "40 Ft",
+        "Type": "Giant",
+        "XP": 450
+    },
+    "Ogre Zombie": {
+        "AC": 8,
+        "Book": "MM 316",
+        "HP": 85,
+        "Located": "Underdark, Cemetery, Grassland, Hill",
+        "Speed": "30 Ft",
+        "Type": "Undead",
+        "XP": 450
+    },
+    "Oinoloth": {
+        "AC": 17,
+        "Book": "MTF 251",
+        "HP": 126,
+        "Located": "Planar",
+        "Speed": "40 Ft",
+        "Type": "Fiend, Yugoloth",
+        "XP": 8400
+    },
+    "Oni": {
+        "AC": 16,
+        "Book": "MM 239",
+        "HP": 110,
+        "Located": "Urban, Swamp",
+        "Speed": "30 Ft, Fly 30 Ft",
+        "Type": "Giant",
+        "XP": 2900
+    },
+    "Orc": {
+        "AC": 13,
+        "Book": "MM 246",
+        "HP": 15,
+        "Located": "Grassland, Hill, Mountain",
+        "Speed": "30 Ft",
+        "Type": "Humanoid (Orc)",
+        "XP": 100
+    },
+    "Orc Blade Of Ilneval": {
+        "AC": 18,
+        "Book": "VGM 183",
+        "HP": 60,
+        "Located": "Grassland, Hill, Mountain",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Orc",
+        "XP": 1100
+    },
+    "Orc Claw Of Luthic": {
+        "AC": 14,
+        "Book": "VGM 183",
+        "HP": 45,
+        "Located": "Grassland, Hill, Mountain",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Orc",
+        "XP": 450
+    },
+    "Orc Eye Of Gruumsh": {
+        "AC": 16,
+        "Book": "MM 247",
+        "HP": 45,
+        "Located": "Grassland, Hill, Mountain",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Orc",
+        "XP": 450
+    },
+    "Orc Hand Of Yurtrus": {
+        "AC": 12,
+        "Book": "VGM 184",
+        "HP": 30,
+        "Located": "Grassland, Hill, Mountain",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Orc",
+        "XP": 450
+    },
+    "Orc Nurtured One Of Yurtrus": {
+        "AC": 9,
+        "Book": "VGM 184",
+        "HP": 30,
+        "Located": "Grassland, Hill, Mountain",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Orc",
+        "XP": 100
+    },
+    "Orc Red Fang Of Shargaas": {
+        "AC": 15,
+        "Book": "VGM 185",
+        "HP": 52,
+        "Located": "Grassland, Hill, Mountain",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Orc",
+        "XP": 700
+    },
+    "Orc War Chief": {
+        "AC": 16,
+        "Book": "MM 246",
+        "HP": 93,
+        "Located": "Grassland, Hill, Mountain",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Orc",
+        "XP": 1100
+    },
+    "Orcus": {
+        "AC": 20,
+        "Book": "MTF 153",
+        "HP": 405,
+        "Located": "Planar",
+        "Speed": "40 Ft, Fly 40 Ft",
+        "Type": "Demon Lord, Fiend",
+        "XP": 90000
+    },
+    "Orthon": {
+        "AC": 17,
+        "Book": "MTF 169",
+        "HP": 105,
+        "Located": "Planar",
+        "Speed": "30 Ft, Climb 30 Ft",
+        "Type": "Devil, Fiend",
+        "XP": 5900
+    },
+    "Otyugh": {
+        "AC": 14,
+        "Book": "MM 248",
+        "HP": 114,
+        "Located": "Underdark",
+        "Speed": "30 Ft",
+        "Type": "Aberration",
+        "XP": 1800
+    },
+    "Owlbear": {
+        "AC": 13,
+        "Book": "MM 249",
+        "HP": 59,
+        "Located": "Forest, Hill",
+        "Speed": "40 Ft",
+        "Type": "Monstrosity",
+        "XP": 700
+    },
+    "Panther": {
+        "AC": 12,
+        "Book": "MM 333",
+        "HP": 13,
+        "Located": "Forest",
+        "Speed": "50 Ft, Climb 40 Ft",
+        "Type": "Beast",
+        "XP": 50
+    },
+    "Pegasus": {
+        "AC": 12,
+        "Book": "MM 250",
+        "HP": 59,
+        "Located": "Mountain",
+        "Speed": "60 Ft, Fly 90 Ft",
+        "Type": "Celestial",
+        "XP": 450
+    },
+    "Peryton": {
+        "AC": 13,
+        "Book": "MM 251",
+        "HP": 33,
+        "Located": "Mountain, Coast, Desert",
+        "Speed": "20 Ft, Fly 60 Ft",
+        "Type": "Monstrosity",
+        "XP": 450
+    },
+    "Phase Spider": {
+        "AC": 13,
+        "Book": "MM 334",
+        "HP": 32,
+        "Located": "Planar, Underdark, Swamp",
+        "Speed": "30 Ft, Climb 30 Ft",
+        "Type": "Monstrosity",
+        "XP": 700
+    },
+    "Phoenix": {
+        "AC": 18,
+        "Book": "MTF 199",
+        "HP": 175,
+        "Located": "Planar, Desert, Mountain",
+        "Speed": "20 Ft, Fly 120 Ft",
+        "Type": "Elemental",
+        "XP": 15000
+    },
+    "Piercer": {
+        "AC": 15,
+        "Book": "MM 252",
+        "HP": 22,
+        "Located": "Underdark",
+        "Speed": "5 Ft, Climb 5 Ft",
+        "Type": "Monstrosity",
+        "XP": 100
+    },
+    "Pit Fiend": {
+        "AC": 19,
+        "Book": "MM 77",
+        "HP": 300,
+        "Located": "Planar",
+        "Speed": "30 Ft, Fly 60 Ft",
+        "Type": "Devil, Fiend",
+        "XP": 25000
+    },
+    "Planetar": {
+        "AC": 19,
+        "Book": "MM 17",
+        "HP": 200,
+        "Located": "Planar",
+        "Speed": "40 Ft, Fly 120 Ft",
+        "Type": "Celestial",
+        "XP": 15000
+    },
+    "Poisonous Snake": {
+        "AC": 13,
+        "Book": "MM 334",
+        "HP": 2,
+        "Located": "Swamp",
+        "Speed": "30 Ft, Swim 30 Ft",
+        "Type": "Beast",
+        "XP": 25
+    },
+    "Polar Bear": {
+        "AC": 12,
+        "Book": "MM 334",
+        "HP": 42,
+        "Located": "Arctic",
+        "Speed": "40 Ft, Swim 30 Ft",
+        "Type": "Beast",
+        "XP": 450
+    },
+    "Purple Worm": {
+        "AC": 18,
+        "Book": "MM 255",
+        "HP": 247,
+        "Located": "Mountain, Underdark",
+        "Speed": "50 Ft, Burrow 30 Ft",
+        "Type": "Monstrosity",
+        "XP": 13000
+    },
+    "Quaggoth": {
+        "AC": 13,
+        "Book": "MM 256",
+        "HP": 45,
+        "Located": "Underdark",
+        "Speed": "30 Ft, Climb 30 Ft",
+        "Type": "Humanoid, Quaggoth",
+        "XP": 450
+    },
+    "Quasit": {
+        "AC": 13,
+        "Book": "MM 63",
+        "HP": 7,
+        "Located": "Planar",
+        "Speed": "40 Ft",
+        "Type": "Demon, Fiend",
+        "XP": 200
+    },
+    "Quickling": {
+        "AC": 16,
+        "Book": "VGM 187",
+        "HP": 10,
+        "Located": "Forest, Swamp, Grassland",
+        "Speed": "120 Ft",
+        "Type": "Fey",
+        "XP": 200
+    },
+    "Rakshasa": {
+        "AC": 16,
+        "Book": "MM 257",
+        "HP": 110,
+        "Located": "Urban",
+        "Speed": "40 Ft",
+        "Type": "Fiend",
+        "XP": 10000
+    },
+    "Red Abishai": {
+        "AC": 22,
+        "Book": "MTF 162",
+        "HP": 255,
+        "Located": "Planar",
+        "Speed": "30 Ft, Fly 50 Ft",
+        "Type": "Devil, Fiend, Dragon",
+        "XP": 22000
+    },
+    "Red Dragon Wyrmling": {
+        "AC": 17,
+        "Book": "MM 98",
+        "HP": 75,
+        "Located": "Mountain",
+        "Speed": "30 Ft, Climb 30 Ft, Fly 60 Ft",
+        "Type": "Dragon",
+        "XP": 1100
+    },
+    "Red Slaad": {
+        "AC": 14,
+        "Book": "MM 276",
+        "HP": 93,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Aberration",
+        "XP": 1800
+    },
+    "Redcap": {
+        "AC": 13,
+        "Book": "VGM 188",
+        "HP": 45,
+        "Located": "Forest, Swamp, Grassland, Hill",
+        "Speed": "25 Ft",
+        "Type": "Fey",
+        "XP": 700
+    },
+    "Reef Shark": {
+        "AC": 12,
+        "Book": "MM 336",
+        "HP": 22,
+        "Located": "Underwater",
+        "Speed": "Swim 40 Ft",
+        "Type": "Beast",
+        "XP": 100
+    },
+    "Remorhaz": {
+        "AC": 17,
+        "Book": "MM 258",
+        "HP": 195,
+        "Located": "Arctic, Mountain",
+        "Speed": "30 Ft, Burrow 20 Ft",
+        "Type": "Monstrosity",
+        "XP": 7200
+    },
+    "Retriever": {
+        "AC": 19,
+        "Book": "MTF 222",
+        "HP": 210,
+        "Located": "Planar, Underdark",
+        "Speed": "40 Ft, Climb 40 Ft",
+        "Type": "Construct",
+        "XP": 11500
+    },
+    "Revenant": {
+        "AC": 13,
+        "Book": "MM 259",
+        "HP": 136,
+        "Located": "Urban, Cemetery",
+        "Speed": "30 Ft",
+        "Type": "Undead",
+        "XP": 1800
+    },
+    "Rhinoceros": {
+        "AC": 11,
+        "Book": "MM 336",
+        "HP": 45,
+        "Located": "Hills",
+        "Speed": "40 Ft",
+        "Type": "Beast",
+        "XP": 450
+    },
+    "Roc": {
+        "AC": 15,
+        "Book": "MM 260",
+        "HP": 248,
+        "Located": "Mountain, Grassland, Hill, Coast, Desert",
+        "Speed": "20 Ft, Fly 120 Ft",
+        "Type": "Monstrosity",
+        "XP": 7200
+    },
+    "Roper": {
+        "AC": 20,
+        "Book": "MM 261",
+        "HP": 93,
+        "Located": "Underdark",
+        "Speed": "10 Ft, Climb 10 Ft",
+        "Type": "Monstrosity",
+        "XP": 1800
+    },
+    "Rot Troll": {
+        "AC": 16,
+        "Book": "MTF 244",
+        "HP": 138,
+        "Located": "Underdark, Swamp, Forest, Cemetery",
+        "Speed": "30 Ft",
+        "Type": "Giant",
+        "XP": 5000
+    },
+    "Rug Of Smothering": {
+        "AC": 12,
+        "Book": "MM 20",
+        "HP": 33,
+        "Located": "Urban",
+        "Speed": "10 Ft",
+        "Type": "Construct",
+        "XP": 450
+    },
+    "Rust Monster": {
+        "AC": 14,
+        "Book": "MM 262",
+        "HP": 27,
+        "Located": "Underdark, Cemetery",
+        "Speed": "40 Ft",
+        "Type": "Monstrosity",
+        "XP": 100
+    },
+    "Rutterkin": {
+        "AC": 12,
+        "Book": "MTF 136",
+        "HP": 37,
+        "Located": "Planar",
+        "Speed": "20 Ft",
+        "Type": "Demon, Fiend",
+        "XP": 450
+    },
+    "Saber-Toothed Tiger": {
+        "AC": 12,
+        "Book": "MM 336",
+        "HP": 52,
+        "Located": "Arctic, Mountain, Hill",
+        "Speed": "40 Ft",
+        "Type": "Beast",
+        "XP": 450
+    },
+    "Sacred Statue": {
+        "AC": 19,
+        "Book": "MTF 194",
+        "HP": 95,
+        "Located": "Underdark, Cemetery",
+        "Speed": "25 Ft",
+        "Type": "Undead (Eidolon)",
+        "XP": 8400
+    },
+    "Sahuagin": {
+        "AC": 12,
+        "Book": "MM 263",
+        "HP": 22,
+        "Located": "Underwater, Coast, Ocean",
+        "Speed": "30 Ft, Swim 40 Ft",
+        "Type": "Humanoid (Sahuagin)",
+        "XP": 100
+    },
+    "Sahuagin Baron": {
+        "AC": 16,
+        "Book": "MM 264",
+        "HP": 76,
+        "Located": "Underwater, Coast",
+        "Speed": "30 Ft, Swim 50 Ft",
+        "Type": "Humanoid, Sahuagin",
+        "XP": 1800
+    },
+    "Sahuagin Priestess": {
+        "AC": 12,
+        "Book": "MM 264",
+        "HP": 33,
+        "Located": "Underwater, Coast",
+        "Speed": "30 Ft, Swim 40 Ft",
+        "Type": "Humanoid, Sahuagin",
+        "XP": 450
+    },
+    "Salamander": {
+        "AC": 15,
+        "Book": "MM 266",
+        "HP": 90,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Elemental",
+        "XP": 1800
+    },
+    "Satyr": {
+        "AC": 14,
+        "Book": "MM 267",
+        "HP": 31,
+        "Located": "Forest",
+        "Speed": "40 Ft",
+        "Type": "Fey",
+        "XP": 100
+    },
+    "Scarecrow": {
+        "AC": 11,
+        "Book": "MM 268",
+        "HP": 36,
+        "Located": "Urban, Grassland, Hill",
+        "Speed": "30 Ft",
+        "Type": "Construct",
+        "XP": 200
+    },
+    "Scout": {
+        "AC": 13,
+        "Book": "MM 349",
+        "HP": 16,
+        "Located": "Grassland, Hill, Mountain, Arctic, Coast, Forest, Swamp",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 100
+    },
+    "Sea Hag": {
+        "AC": 14,
+        "Book": "MM 179",
+        "HP": 52,
+        "Located": "Underwater",
+        "Speed": "30 Ft, Swim 40 Ft",
+        "Type": "Fey",
+        "XP": 450
+    },
+    "Sea Spawn": {
+        "AC": 11,
+        "Book": "VGM 189",
+        "HP": 32,
+        "Located": "Coast, Underwater",
+        "Speed": "20 Ft, Swim 30 Ft",
+        "Type": "Humanoid",
+        "XP": 200
+    },
+    "Shadow": {
+        "AC": 12,
+        "Book": "MM 269",
+        "HP": 16,
+        "Located": "Underdark, Urban, Cemetery",
+        "Speed": "40 Ft",
+        "Type": "Undead",
+        "XP": 100
+    },
+    "Shadow Dancer": {
+        "AC": 15,
+        "Book": "MTF 225",
+        "HP": 71,
+        "Located": "Planar, Underdark, Cemetery",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Shadar-Kai",
+        "XP": 2900
+    },
+    "Shadow Demon": {
+        "AC": 13,
+        "Book": "MM 64",
+        "HP": 66,
+        "Located": "Planar",
+        "Speed": "30 Ft, Fly 30 Ft",
+        "Type": "Demon, Fiend",
+        "XP": 1100
+    },
+    "Shadow Mastiff": {
+        "AC": 12,
+        "Book": "VGM 190",
+        "HP": 33,
+        "Located": "Grassland, Hill, Planar",
+        "Speed": "40 Ft",
+        "Type": "Monstrosity",
+        "XP": 450
+    },
+    "Shambling Mound": {
+        "AC": 15,
+        "Book": "MM 270",
+        "HP": 136,
+        "Located": "Forest, Swamp",
+        "Speed": "20 Ft, Swim 20 Ft",
+        "Type": "Plant",
+        "XP": 1800
+    },
+    "Shield Guardian": {
+        "AC": 17,
+        "Book": "MM 271",
+        "HP": 142,
+        "Located": "Urban",
+        "Speed": "30 Ft",
+        "Type": "Construct",
+        "XP": 2900
+    },
+    "Shoosuva": {
+        "AC": 14,
+        "Book": "VGM 137",
+        "HP": 110,
+        "Located": "Planar, Grassland, Hill",
+        "Speed": "40 Ft",
+        "Type": "Demon, Fiend",
+        "XP": 3900
+    },
+    "Sibriex": {
+        "AC": 19,
+        "Book": "MTF 137",
+        "HP": 150,
+        "Located": "Planar",
+        "Speed": "Fly 20 Ft",
+        "Type": "Demon, Fiend",
+        "XP": 20000
+    },
+    "Skeleton": {
+        "AC": 13,
+        "Book": "MM 272",
+        "HP": 13,
+        "Located": "Underdark, Urban, Cemetery",
+        "Speed": "30 Ft",
+        "Type": "Undead",
+        "XP": 50
+    },
+    "Skulk": {
+        "AC": 14,
+        "Book": "MTF 227",
+        "HP": 18,
+        "Located": "Forest, Swamp, Urban, Coast, Underdark",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 100
+    },
+    "Skull Lord": {
+        "AC": 18,
+        "Book": "MTF 230",
+        "HP": 105,
+        "Located": "Planar, Underdark, Cemetery",
+        "Speed": "30 Ft",
+        "Type": "Undead",
+        "XP": 13000
+    },
+    "Slaad Tadpole": {
+        "AC": 12,
+        "Book": "MM 276",
+        "HP": 10,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Aberration",
+        "XP": 25
+    },
+    "Slithering Tracker": {
+        "AC": 14,
+        "Book": "VGM 191",
+        "HP": 32,
+        "Located": "Urban, Underdark",
+        "Speed": "30 Ft, Climb 30 Ft, Swim 30 Ft",
+        "Type": "Ooze",
+        "XP": 700
+    },
+    "Smoke Mephit": {
+        "AC": 12,
+        "Book": "MM 217",
+        "HP": 22,
+        "Located": "Urban, Mountain, Desert",
+        "Speed": "30 Ft, Fly 30 Ft",
+        "Type": "Elemental",
+        "XP": 50
+    },
+    "Solar": {
+        "AC": 21,
+        "Book": "MM 18",
+        "HP": 243,
+        "Located": "Planar",
+        "Speed": "50 Ft, Fly 150 Ft",
+        "Type": "Celestial",
+        "XP": 33000
+    },
+    "Soul Monger": {
+        "AC": 15,
+        "Book": "MTF 226",
+        "HP": 123,
+        "Located": "Planar, Underdark, Cemetery",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Shadar-Kai",
+        "XP": 7200
+    },
+    "Spawn Of Kyuss": {
+        "AC": 10,
+        "Book": "VGM 192",
+        "HP": 76,
+        "Located": "Grassland, Underdark, Hill, Cemetery, Planar",
+        "Speed": "30 Ft",
+        "Type": "Undead",
+        "XP": 1800
+    },
+    "Spectator": {
+        "AC": 14,
+        "Book": "MM 30",
+        "HP": 39,
+        "Located": "Underdark, Planar, Urban",
+        "Speed": "Fly 30 Ft",
+        "Type": "Aberration",
+        "XP": 700
+    },
+    "Specter": {
+        "AC": 12,
+        "Book": "MM 279",
+        "HP": 22,
+        "Located": "Underdark, Urban, Cemetery",
+        "Speed": "Fly 50 Ft",
+        "Type": "Undead",
+        "XP": 200
+    },
+    "Spined Devil": {
+        "AC": 13,
+        "Book": "MM 78",
+        "HP": 22,
+        "Located": "Planar",
+        "Speed": "20 Ft, Fly 40 Ft",
+        "Type": "Devil, Fiend",
+        "XP": 450
+    },
+    "Spirit Naga": {
+        "AC": 15,
+        "Book": "MM 234",
+        "HP": 75,
+        "Located": "Underdark, Swamp",
+        "Speed": "40 Ft",
+        "Type": "Monstrosity",
+        "XP": 3900
+    },
+    "Spirit Troll": {
+        "AC": 17,
+        "Book": "MTF 244",
+        "HP": 97,
+        "Located": "Underdark, Cemetery, Swamp",
+        "Speed": "30 Ft",
+        "Type": "Giant",
+        "XP": 7200
+    },
+    "Spring Eladrin": {
+        "AC": 19,
+        "Book": "MTF 196",
+        "HP": 127,
+        "Located": "Planar, Forest, Grassland",
+        "Speed": "30 Ft",
+        "Type": "Fey",
+        "XP": 5900
+    },
+    "Star Spawn Grue": {
+        "AC": 11,
+        "Book": "MTF 234",
+        "HP": 17,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Aberration, Starspawn",
+        "XP": 50
+    },
+    "Star Spawn Hulk": {
+        "AC": 16,
+        "Book": "MTF 234",
+        "HP": 136,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Aberration, Starspawn",
+        "XP": 5900
+    },
+    "Star Spawn Larva Mage": {
+        "AC": 16,
+        "Book": "MTF 235",
+        "HP": 168,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Aberration, Starspawn",
+        "XP": 15000
+    },
+    "Star Spawn Mangler": {
+        "AC": 14,
+        "Book": "MTF 236",
+        "HP": 71,
+        "Located": "Planar",
+        "Speed": "40 Ft, Climb 40 Ft",
+        "Type": "Aberration, Starspawn",
+        "XP": 1800
+    },
+    "Star Spawn Seer": {
+        "AC": 17,
+        "Book": "MTF 236",
+        "HP": 153,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Aberration, Starspawn",
+        "XP": 10000
+    },
+    "Steam Mephit": {
+        "AC": 10,
+        "Book": "MM 217",
+        "HP": 21,
+        "Located": "Mountain",
+        "Speed": "30 Ft, Fly 30 Ft",
+        "Type": "Elemental",
+        "XP": 50
+    },
+    "Steel Predator": {
+        "AC": 20,
+        "Book": "MTF 239",
+        "HP": 207,
+        "Located": "Planar, Urban, Underdark",
+        "Speed": "40 Ft",
+        "Type": "Construct",
+        "XP": 15000
+    },
+    "Stirge": {
+        "AC": 14,
+        "Book": "MM 284",
+        "HP": 2,
+        "Located": "Grassland",
+        "Speed": "10 Ft, Fly 40 Ft)",
+        "Type": "Beast",
+        "XP": 25
+    },
+    "Stone Cursed": {
+        "AC": 17,
+        "Book": "MTF 240",
+        "HP": 19,
+        "Located": "Urban, Underdark, Mountain",
+        "Speed": "10 Ft",
+        "Type": "Construct",
+        "XP": 200
+    },
+    "Stone Defender": {
+        "AC": 16,
+        "Book": "MTF 126",
+        "HP": 52,
+        "Located": "Urban, Underdark, Mountain",
+        "Speed": "30 Ft",
+        "Type": "Construct",
+        "XP": 1100
+    },
+    "Stone Giant": {
+        "AC": 17,
+        "Book": "MM 156",
+        "HP": 126,
+        "Located": "Mountain",
+        "Speed": "40 Ft",
+        "Type": "Giant",
+        "XP": 2900
+    },
+    "Stone Giant Dreamwalker": {
+        "AC": 18,
+        "Book": "VGM 150",
+        "HP": 161,
+        "Located": "Mountain, Hill, Grassland, Swamp, Forest",
+        "Speed": "40 Ft",
+        "Type": "Giant",
+        "XP": 5900
+    },
+    "Stone Golem": {
+        "AC": 17,
+        "Book": "MM 170",
+        "HP": 178,
+        "Located": "Underdark",
+        "Speed": "30 Ft",
+        "Type": "Construct",
+        "XP": 5900
+    },
+    "Storm Giant": {
+        "AC": 16,
+        "Book": "MM 156",
+        "HP": 230,
+        "Located": "Mountain, Underwater",
+        "Speed": "50 Ft, Swim 50 Ft",
+        "Type": "Giant",
+        "XP": 10000
+    },
+    "Succubus/Incubus": {
+        "AC": 15,
+        "Book": "MM 285",
+        "HP": 66,
+        "Located": "Urban, Planar",
+        "Speed": "30 Ft, Fly 60 Ft",
+        "Type": "Fiend",
+        "XP": 1100
+    },
+    "Summer Eladrin": {
+        "AC": 19,
+        "Book": "MTF 196",
+        "HP": 127,
+        "Located": "Planar, Desert, Grassland, Hill",
+        "Speed": "50 Ft",
+        "Type": "Fey",
+        "XP": 5900
+    },
+    "Swam Of Rot Grubs": {
+        "AC": 8,
+        "Book": "VGM 208",
+        "HP": 22,
+        "Located": "Urban, Underdark, Cemetery",
+        "Speed": "5 Ft, Climb 5 Ft",
+        "Type": "Beast",
+        "XP": 100
+    },
+    "Swarm Of Cranium Rats": {
+        "AC": 12,
+        "Book": "VGM 133",
+        "HP": 36,
+        "Located": "Urban, Underdark",
+        "Speed": "30 Ft",
+        "Type": "Beast",
+        "XP": 1800
+    },
+    "Swarm of Bats": {
+        "AC": 12,
+        "Book": "MM 337",
+        "HP": 22,
+        "Located": "Underdark",
+        "Speed": "Fly 30 Ft",
+        "Type": "Beast",
+        "XP": 50
+    },
+    "Swarm of Insects": {
+        "AC": 12,
+        "Book": "MM 338",
+        "HP": 22,
+        "Located": "Forest",
+        "Speed": "20 Ft, Climb 20 Ft",
+        "Type": "Beast",
+        "XP": 100
+    },
+    "Swarm of Poisonous Snakes": {
+        "AC": 14,
+        "Book": "MM 338",
+        "HP": 36,
+        "Located": "Swamp",
+        "Speed": "30 Ft, Swim 30 Ft",
+        "Type": "Beast",
+        "XP": 450
+    },
+    "Swarm of Rats": {
+        "AC": 10,
+        "Book": "MM 339",
+        "HP": 24,
+        "Located": "Urban",
+        "Speed": "30 Ft",
+        "Type": "Beast",
+        "XP": 50
+    },
+    "Swarm of Ravens": {
+        "AC": 12,
+        "Book": "MM 339",
+        "HP": 24,
+        "Located": "Urban",
+        "Speed": "10 Ft, Fly 50 Ft",
+        "Type": "Beast",
+        "XP": 50
+    },
+    "Swashbuckler": {
+        "AC": 17,
+        "Book": "VGM 217",
+        "HP": 66,
+        "Located": "Urban, Coast",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 700
+    },
+    "Sword Wraith Commander": {
+        "AC": 18,
+        "Book": "MTF 241",
+        "HP": 127,
+        "Located": "Underdark, Cemetery, Grassland, Hill",
+        "Speed": "30 Ft",
+        "Type": "Undead",
+        "XP": 3900
+    },
+    "Sword Wraith Warrior": {
+        "AC": 16,
+        "Book": "MTF 241",
+        "HP": 45,
+        "Located": "Underdark, Cemetery, Grassland, Hill",
+        "Speed": "30 Ft",
+        "Type": "Undead",
+        "XP": 700
+    },
+    "Tanarukk": {
+        "AC": 14,
+        "Book": "VGM 186",
+        "HP": 95,
+        "Located": "Grassland, Hill, Mountain",
+        "Speed": "30 Ft",
+        "Type": "Demon, Fiend, Orc",
+        "XP": 1800
+    },
+    "Tarrasque": {
+        "AC": 25,
+        "Book": "MM 286",
+        "HP": 676,
+        "Located": "Planar, Grassland, Coast, Mountain, Desert",
+        "Speed": "40 Ft",
+        "Type": "Monstrosity",
+        "XP": 155000
+    },
+    "The Angry": {
+        "AC": 18,
+        "Book": "MTF 231",
+        "HP": 255,
+        "Located": "Planar, Shadowfell",
+        "Speed": "30 Ft",
+        "Type": "Monstrosity, Sorrowsworn",
+        "XP": 10000
+    },
+    "The Hungry": {
+        "AC": 17,
+        "Book": "MTF 232",
+        "HP": 225,
+        "Located": "Planar, Shadowfell",
+        "Speed": "30 Ft",
+        "Type": "Monstrosity, Sorrowsworn",
+        "XP": 7200
+    },
+    "The Lonely": {
+        "AC": 16,
+        "Book": "MTF 232",
+        "HP": 112,
+        "Located": "Planar, Shadowfell",
+        "Speed": "30 Ft",
+        "Type": "Monstrosity, Sorrowsworn",
+        "XP": 5000
+    },
+    "The Lost": {
+        "AC": 15,
+        "Book": "MTF 233",
+        "HP": 78,
+        "Located": "Planar, Shadowfell",
+        "Speed": "30 Ft",
+        "Type": "Monstrosity, Sorrowsworn",
+        "XP": 2900
+    },
+    "The Wretched": {
+        "AC": 15,
+        "Book": "MTF 233",
+        "HP": 10,
+        "Located": "Planar, Shadowfell",
+        "Speed": "40 Ft",
+        "Type": "Monstrosity, Sorrowsworn",
+        "XP": 50
+    },
+    "Thorny": {
+        "AC": 14,
+        "Book": "VGM 197",
+        "HP": 27,
+        "Located": "Underdark, Swamp",
+        "Speed": "30 Ft",
+        "Type": "Plant",
+        "XP": 200
+    },
+    "Thri-Kreen": {
+        "AC": 15,
+        "Book": "MM 288",
+        "HP": 33,
+        "Located": "Grassland, Hill",
+        "Speed": "40 Ft",
+        "Type": "Humanoid, Thri-Kreen",
+        "XP": 200
+    },
+    "Thug": {
+        "AC": 11,
+        "Book": "MM 350",
+        "HP": 32,
+        "Located": "Urban, Grassland, Hill, Coast",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 100
+    },
+    "Tiger": {
+        "AC": 12,
+        "Book": "MM 339",
+        "HP": 37,
+        "Located": "Grassland",
+        "Speed": "40 Ft",
+        "Type": "Beast",
+        "XP": 200
+    },
+    "Titivilus": {
+        "AC": 20,
+        "Book": "MTF 179",
+        "HP": 127,
+        "Located": "Planar",
+        "Speed": "40 Ft, Fly 60 Ft",
+        "Type": "Devil, Fiend",
+        "XP": 15000
+    },
+    "Tlincalli": {
+        "AC": 15,
+        "Book": "VGM 193",
+        "HP": 85,
+        "Located": "Desert",
+        "Speed": "40 Ft",
+        "Type": "Monstrosity",
+        "XP": 1800
+    },
+    "Transmuter": {
+        "AC": 12,
+        "Book": "VGM 218",
+        "HP": 40,
+        "Located": "Urban",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 1800
+    },
+    "Trapper": {
+        "AC": 13,
+        "Book": "VGM 194",
+        "HP": 85,
+        "Located": "Underdark",
+        "Speed": "10 Ft, Climb 10 Ft",
+        "Type": "Monstrosity",
+        "XP": 700
+    },
+    "Treant": {
+        "AC": 16,
+        "Book": "MM 289",
+        "HP": 138,
+        "Located": "Forest, Swamp",
+        "Speed": "30 Ft",
+        "Type": "Plant",
+        "XP": 5000
+    },
+    "Tribal Warrior": {
+        "AC": 12,
+        "Book": "MM 350",
+        "HP": 11,
+        "Located": "Grassland, Hill, Mountain, Arctic, Desert, Forest",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 25
+    },
+    "Troglodyte": {
+        "AC": 11,
+        "Book": "MM 290",
+        "HP": 13,
+        "Located": "Underdark",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Troglodyte",
+        "XP": 50
+    },
+    "Troll": {
+        "AC": 15,
+        "Book": "MM 291",
+        "HP": 84,
+        "Located": "Swamp, Hill, Grassland",
+        "Speed": "30 Ft",
+        "Type": "Giant",
+        "XP": 1800
+    },
+    "Twig Blight": {
+        "AC": 13,
+        "Book": "MM 32",
+        "HP": 4,
+        "Located": "Swamp, Forest",
+        "Speed": "20 Ft",
+        "Type": "Plant",
+        "XP": 25
+    },
+    "Ulitharid": {
+        "AC": 15,
+        "Book": "VGM 175",
+        "HP": 127,
+        "Located": "Underdark, Planar",
+        "Speed": "30 Ft",
+        "Type": "Aberration, Mindflayer",
+        "XP": 5000
+    },
+    "Ultroloth": {
+        "AC": 19,
+        "Book": "MM 314",
+        "HP": 153,
+        "Located": "Planar",
+        "Speed": "30 Ft, Fly 60 Ft",
+        "Type": "Fiend, Yugoloth",
+        "XP": 10000
+    },
+    "Umber Hulk": {
+        "AC": 18,
+        "Book": "MM 292",
+        "HP": 93,
+        "Located": "Underdark",
+        "Speed": "30 Ft, Burrow 20 Ft",
+        "Type": "Monstrosity",
+        "XP": 1800
+    },
+    "Unicorn": {
+        "AC": 12,
+        "Book": "MM 294",
+        "HP": 67,
+        "Located": "Forest",
+        "Speed": "50 Ft",
+        "Type": "Celestial",
+        "XP": 1800
+    },
+    "Vampire": {
+        "AC": 16,
+        "Book": "MM 297",
+        "HP": 144,
+        "Located": "Urban, Cemetery, Underdark",
+        "Speed": "30 Ft",
+        "Type": "Undead, Shapechanger",
+        "XP": 10000
+    },
+    "Vampire Spawn": {
+        "AC": 15,
+        "Book": "MM 298",
+        "HP": 82,
+        "Located": "Urban",
+        "Speed": "30 Ft",
+        "Type": "Undead",
+        "XP": 1800
+    },
+    "Vampiric Mist": {
+        "AC": 13,
+        "Book": "MTF 246",
+        "HP": 30,
+        "Located": "Cemetery, Underdark, Grassland, Planar",
+        "Speed": "Fly 30 Ft",
+        "Type": "Undead",
+        "XP": 700
+    },
+    "Vargouille": {
+        "AC": 12,
+        "Book": "VGM 195",
+        "HP": 13,
+        "Located": "Urban, Grassland, Underdark",
+        "Speed": "5 Ft, Fly 40 Ft",
+        "Type": "Fiend",
+        "XP": 200
+    },
+    "Vegepygmy": {
+        "AC": 13,
+        "Book": "VGM 196",
+        "HP": 9,
+        "Located": "Underdark, Swamp",
+        "Speed": "30 Ft",
+        "Type": "Plant",
+        "XP": 50
+    },
+    "Vegepygmy Chief": {
+        "AC": 14,
+        "Book": "VGM 197",
+        "HP": 33,
+        "Located": "Underdark, Swamp",
+        "Speed": "30 Ft",
+        "Type": "Plant",
+        "XP": 450
+    },
+    "Venom Troll": {
+        "AC": 15,
+        "Book": "MTF 245",
+        "HP": 94,
+        "Located": "Swamp, Forest, Underdark",
+        "Speed": "30 Ft",
+        "Type": "Giant",
+        "XP": 2900
+    },
+    "Veteran": {
+        "AC": 17,
+        "Book": "MM 350",
+        "HP": 58,
+        "Located": "Urban, Grassland, Hill, Coast, Mountain, Arctic",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 700
+    },
+    "Vine Blight": {
+        "AC": 12,
+        "Book": "MM 32",
+        "HP": 26,
+        "Located": "Swamp, Forest",
+        "Speed": "10 Ft",
+        "Type": "Plant",
+        "XP": 100
+    },
+    "Vrock": {
+        "AC": 15,
+        "Book": "MM 64",
+        "HP": 104,
+        "Located": "Planar",
+        "Speed": "40 Ft, Fly 60 Ft",
+        "Type": "Demon, Fiend",
+        "XP": 2300
+    },
+    "War Priest": {
+        "AC": 18,
+        "Book": "VGM 218",
+        "HP": 117,
+        "Located": "Urban, Grassland, Hill, Mountain",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 5000
+    },
+    "Warlord": {
+        "AC": 18,
+        "Book": "VGM 220",
+        "HP": 229,
+        "Located": "Urban, Coast, Grassland",
+        "Speed": "30 Ft",
+        "Type": "Humanoid",
+        "XP": 8400
+    },
+    "Wastrilith": {
+        "AC": 18,
+        "Book": "MTF 139",
+        "HP": 157,
+        "Located": "Planar, Underwater, Swamp, Coast",
+        "Speed": "30 Ft, Swim 80 Ft",
+        "Type": "Demon, Fiend",
+        "XP": 10000
+    },
+    "Water Elemental": {
+        "AC": 14,
+        "Book": "MM 125",
+        "HP": 114,
+        "Located": "Planar",
+        "Speed": "30 Ft, Swim 90 Ft",
+        "Type": "Elemental",
+        "XP": 1800
+    },
+    "Water Elemental Myrmidon": {
+        "AC": 18,
+        "Book": "MTF 203",
+        "HP": 127,
+        "Located": "Planar",
+        "Speed": "40 Ft, Swim 40 Ft",
+        "Type": "Elemental",
+        "XP": 2900
+    },
+    "Water Weird": {
+        "AC": 13,
+        "Book": "MM 299",
+        "HP": 58,
+        "Located": "Underwater, Coast, Underdark",
+        "Speed": "Swim 60 Ft",
+        "Type": "Elemental",
+        "XP": 700
+    },
+    "Werebear": {
+        "AC": 11,
+        "Book": "MM 208",
+        "HP": 135,
+        "Located": "Forest, Mountain, Arctic",
+        "Speed": "30 Ft, 40 Ft Climb 30 Ft Bear Form",
+        "Type": "Humanoid (Lycanthrope), Shapechanger",
+        "XP": 1800
+    },
+    "Wereboar": {
+        "AC": 11,
+        "Book": "MM 209",
+        "HP": 78,
+        "Located": "Grassland, Hill",
+        "Speed": "30 Ft, 40 Ft Boar Form",
+        "Type": "Humanoid (Lycanthrope), Shapechanger",
+        "XP": 1100
+    },
+    "Wererat": {
+        "AC": 12,
+        "Book": "MM 209",
+        "HP": 33,
+        "Located": "Urban",
+        "Speed": "30 Ft",
+        "Type": "Humanoid (Lycanthrope), Shapechanger",
+        "XP": 450
+    },
+    "Weretiger": {
+        "AC": 12,
+        "Book": "MM 210",
+        "HP": 120,
+        "Located": "Grassland",
+        "Speed": "30 Ft, 40 Ft Tiger Form",
+        "Type": "Humanoid (Lycanthrope), Shapechanger",
+        "XP": 1100
+    },
+    "Werewolf": {
+        "AC": 12,
+        "Book": "MM 211",
+        "HP": 58,
+        "Located": "Grassland, Hill, Forest",
+        "Speed": "30 Ft",
+        "Type": "Humanoid (Lycanthrope), Shapechanger",
+        "XP": 700
+    },
+    "White Abishai": {
+        "AC": 15,
+        "Book": "MTF 163",
+        "HP": 68,
+        "Located": "Planar",
+        "Speed": "30 Ft, Fly 40 Ft",
+        "Type": "Devil, Fiend, Dragon",
+        "XP": 2300
+    },
+    "White Dragon Wyrmling": {
+        "AC": 16,
+        "Book": "MM 102",
+        "HP": 32,
+        "Located": "Arctic",
+        "Speed": "30 Ft, Burrow 15 Ft, Fly 60 Ft, Swim 30 Ft",
+        "Type": "Dragon",
+        "XP": 450
+    },
+    "Wight": {
+        "AC": 14,
+        "Book": "MM 300",
+        "HP": 45,
+        "Located": "Underdark, Cemetery",
+        "Speed": "30 Ft",
+        "Type": "Undead",
+        "XP": 700
+    },
+    "Will-O-Wisp": {
+        "AC": 19,
+        "Book": "MM 301",
+        "HP": 22,
+        "Located": "Underdark, Cemetery, Swamp, Forest",
+        "Speed": "Fly 50 Ft",
+        "Type": "Undead",
+        "XP": 450
+    },
+    "Winged Kobold": {
+        "AC": 13,
+        "Book": "MM 195",
+        "HP": 7,
+        "Located": "Mountain, Underdark, Hill",
+        "Speed": "30 Ft, Fly 30 Ft",
+        "Type": "Humanoid, Kobold",
+        "XP": 50
+    },
+    "Winter Eladrin": {
+        "AC": 19,
+        "Book": "MTF 197",
+        "HP": 127,
+        "Located": "Planar, Arctic",
+        "Speed": "30 Ft",
+        "Type": "Fey",
+        "XP": 5900
+    },
+    "Winter Wolf": {
+        "AC": 13,
+        "Book": "MM 340",
+        "HP": 75,
+        "Located": "Mountain, Arctic",
+        "Speed": "50 Ft",
+        "Type": "Monstrosity",
+        "XP": 700
+    },
+    "Wolf": {
+        "AC": 13,
+        "Book": "MM 341",
+        "HP": 11,
+        "Located": "Grassland",
+        "Speed": "40 Ft",
+        "Type": "Beast",
+        "XP": 50
+    },
+    "Wood Woad": {
+        "AC": 18,
+        "Book": "VGM 198",
+        "HP": 75,
+        "Located": "Forest, Swamp",
+        "Speed": "30 Ft, Climb 30 Ft",
+        "Type": "Plant",
+        "XP": 1800
+    },
+    "Worg": {
+        "AC": 13,
+        "Book": "MM 341",
+        "HP": 26,
+        "Located": "Grassland, Hill, Mountain",
+        "Speed": "50 Ft",
+        "Type": "Monstrosity",
+        "XP": 100
+    },
+    "Wraith": {
+        "AC": 13,
+        "Book": "MM 302",
+        "HP": 67,
+        "Located": "Underdark, Cemetery, Urban",
+        "Speed": "Fly 60 Ft",
+        "Type": "Undead",
+        "XP": 1800
+    },
+    "Wyvern": {
+        "AC": 13,
+        "Book": "MM 303",
+        "HP": 110,
+        "Located": "Mountain",
+        "Speed": "20 Ft, Fly 80 Ft",
+        "Type": "Dragon",
+        "XP": 2300
+    },
+    "Xorn": {
+        "AC": 19,
+        "Book": "MM 304",
+        "HP": 73,
+        "Located": "Mountain",
+        "Speed": "20 Ft, Burrow 20 Ft",
+        "Type": "Elemental",
+        "XP": 1800
+    },
+    "Xvart": {
+        "AC": 13,
+        "Book": "VGM 200",
+        "HP": 7,
+        "Located": "Urban, Underdark",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Xvart",
+        "XP": 25
+    },
+    "Xvart Warlock Of Raxivort": {
+        "AC": 12,
+        "Book": "VGM 200",
+        "HP": 22,
+        "Located": "Urban, Underdark",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Xvart",
+        "XP": 200
+    },
+    "Yagnoloth": {
+        "AC": 17,
+        "Book": "MTF 252",
+        "HP": 147,
+        "Located": "Planar, Urban",
+        "Speed": "40 Ft",
+        "Type": "Fiend, Yugoloth",
+        "XP": 7200
+    },
+    "Yeenoghu": {
+        "AC": 20,
+        "Book": "MTF 155",
+        "HP": 333,
+        "Located": "Planar",
+        "Speed": "50 Ft",
+        "Type": "Demon Lord, Fiend",
+        "XP": 62000
+    },
+    "Yeth Hound": {
+        "AC": 14,
+        "Book": "VGM 201",
+        "HP": 51,
+        "Located": "Forest, Swamp, Underdark",
+        "Speed": "40 Ft, Fly 40 Ft",
+        "Type": "Fey",
+        "XP": 1100
+    },
+    "Yeti": {
+        "AC": 12,
+        "Book": "MM 305",
+        "HP": 51,
+        "Located": "Mountain, Arctic",
+        "Speed": "40 Ft, Climb 40 Ft",
+        "Type": "Monstrosity",
+        "XP": 700
+    },
+    "Yochlol": {
+        "AC": 15,
+        "Book": "MM 65",
+        "HP": 136,
+        "Located": "Planar",
+        "Speed": "30 Ft, Climb 30 Ft",
+        "Type": "Demon, Fiend",
+        "XP": 5900
+    },
+    "Young Black Dragon": {
+        "AC": 18,
+        "Book": "MM 88",
+        "HP": 127,
+        "Located": "Swamp. Mountain, Coast",
+        "Speed": "40 Ft, Fly 80 Ft, Swim 40 Ft",
+        "Type": "Dragon",
+        "XP": 2900
+    },
+    "Young Blue Dragon": {
+        "AC": 18,
+        "Book": "MM 91",
+        "HP": 152,
+        "Located": "Desert, Coast",
+        "Speed": "40 Ft, Burrow 20 Ft, Fly 80 Ft",
+        "Type": "Dragon",
+        "XP": 5000
+    },
+    "Young Green Dragon": {
+        "AC": 18,
+        "Book": "MM 94",
+        "HP": 136,
+        "Located": "Forest, Swamp",
+        "Speed": "40 Ft, Fly 80 Ft, Swim 40 Ft",
+        "Type": "Dragon",
+        "XP": 3900
+    },
+    "Young Kuthrik": {
+        "AC": 16,
+        "Book": "MTF 211",
+        "HP": 9,
+        "Located": "Underdark, Mountain, Hill",
+        "Speed": "30 Ft, Burrow 10 Ft, Climb 30 Ft",
+        "Type": "Monstrosity",
+        "XP": 25
+    },
+    "Young Red Dragon": {
+        "AC": 18,
+        "Book": "MM 98",
+        "HP": 178,
+        "Located": "Mountain, Desert",
+        "Speed": "40 Ft, Climb 40 Ft, Fly 80 Ft",
+        "Type": "Dragon",
+        "XP": 5900
+    },
+    "Young Remorhaz": {
+        "AC": 14,
+        "Book": "MM 258",
+        "HP": 93,
+        "Located": "Mountain, Arctic",
+        "Speed": "30 Ft, Burrow 20 Ft",
+        "Type": "Monstrosity",
+        "XP": 1800
+    },
+    "Young White Dragon": {
+        "AC": 17,
+        "Book": "MM 101",
+        "HP": 133,
+        "Located": "Mountain, Arctic",
+        "Speed": "40 Ft, Burrow 20 Ft, Fly 80 Ft, Swim 40 Ft",
+        "Type": "Dragon",
+        "XP": 2300
+    },
+    "Yuan-Ti Abomination": {
+        "AC": 15,
+        "Book": "MM 308",
+        "HP": 127,
+        "Located": "Swamp, Coast",
+        "Speed": "40 Ft",
+        "Type": "Monstrosity, Shapechanger, Yuan-Ti",
+        "XP": 2900
+    },
+    "Yuan-Ti Anathema": {
+        "AC": 16,
+        "Book": "VGM 202",
+        "HP": 189,
+        "Located": "Swamp, Coast",
+        "Speed": "40 Ft, Climb 30 Ft, Swim 30 Ft",
+        "Type": "Monstrosity, Shapechanger, Yuan-Ti",
+        "XP": 8400
+    },
+    "Yuan-Ti Broodguard": {
+        "AC": 14,
+        "Book": "VGM 203",
+        "HP": 45,
+        "Located": "Swamp, Coast",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Yuan-Ti",
+        "XP": 450
+    },
+    "Yuan-Ti Malison": {
+        "AC": 12,
+        "Book": "MM 309",
+        "HP": 66,
+        "Located": "Swamp, Coast",
+        "Speed": "30 Ft",
+        "Type": "Monstrosity, Shapechanger, Yuan-Ti",
+        "XP": 700
+    },
+    "Yuan-Ti Mind Whisperer": {
+        "AC": 14,
+        "Book": "VGM 204",
+        "HP": 71,
+        "Located": "Swamp, Coast",
+        "Speed": "30 Ft",
+        "Type": "Monstrosity, Shapechanger, Yuan-Ti",
+        "XP": 1100
+    },
+    "Yuan-Ti Nightmare Speaker": {
+        "AC": 14,
+        "Book": "VGM 205",
+        "HP": 71,
+        "Located": "Swamp, Coast",
+        "Speed": "30 Ft",
+        "Type": "Monstrosity, Shapechanger, Yuan-Ti",
+        "XP": 1100
+    },
+    "Yuan-Ti Pit Master": {
+        "AC": 14,
+        "Book": "VGM 206",
+        "HP": 88,
+        "Located": "Swamp, Coast",
+        "Speed": "30 Ft",
+        "Type": "Monstrosity, Shapechanger, Yuan-Ti",
+        "XP": 1800
+    },
+    "Yuan-Ti Pureblood": {
+        "AC": 11,
+        "Book": "310",
+        "HP": 40,
+        "Located": "Swamp, Coast, Urban",
+        "Speed": "30 Ft",
+        "Type": "Humanoid, Yuan-Ti",
+        "XP": 200
+    },
+    "Zaratan": {
+        "AC": 21,
+        "Book": "MTF 201",
+        "HP": 307,
+        "Located": "Desert, Hill, Mountain",
+        "Speed": "40 Ft, Swim 40 Ft",
+        "Type": "Elemental",
+        "XP": 41000
+    },
+    "Zariel": {
+        "AC": 21,
+        "Book": "MTF 180",
+        "HP": 580,
+        "Located": "Planar",
+        "Speed": "50 Ft, Fly 150 Ft",
+        "Type": "Devil, Fiend",
+        "XP": 90000
+    },
+    "Zombie": {
+        "AC": 8,
+        "Book": "MM 316",
+        "HP": 22,
+        "Located": "Underdark, Urban, Cemetery",
+        "Speed": "20 Ft",
+        "Type": "Undead",
+        "XP": 50
+    },
+    "Zuggtmoy": {
+        "AC": 18,
+        "Book": "MTF 157",
+        "HP": 304,
+        "Located": "Planar",
+        "Speed": "30 Ft",
+        "Type": "Demon Lord, Fiend",
+        "XP": 50000
+    }
+}
