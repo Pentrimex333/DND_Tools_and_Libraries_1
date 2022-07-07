@@ -1,1 +1,5 @@
+# monster_list_maker_v1.0
+* Module that allows user to input basic info about a monster into a master dictionary, and then save that dictionary as a text file which can be added to later on.
+* This module is intended to be used in conjunction with the monster_encounter_randomizer's master_monster_list.txt, so you can update the master list to include new monsters as future expansions are made for the game we love.
+* Please note: This was technically my very first Python script I ever wrote for my own personal project, so the code might be a little messy; however, it worked just fine for me once I got used to it. While the code does provide a safety measure to allow you to verify monster info before you submit it to the list, please note that if you do accidentally submit the wrong info, you will have to manually delete it from the .txt file; just be careful not to delete any {} symbols that are not part of the monster's data, or else you will have a loading error when using the monster_encounter_randomizer.py code.
 
